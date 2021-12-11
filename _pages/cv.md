@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,30 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc Physics of the Earth System, University of Kiel, Germany, 2010-13
+* Marine Physics, University of Western Brittany, France, 2013-14 (year 1 of MSc)
+* MSc Course on the Arctic Atmospheric Boundary Layer, University Centre in Svalbard, 2016
+* MSc Climate Physics, University of Kiel, 2014-2017
+* PhD Climate computing, University of Oxford, 2017-2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Post-doctoral research assistant, University of Oxford, 2017
+* Post-doctoral research assistant, University of Oxford, 2021-2022
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Research visits
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Alfred-Wegener-Institute (AWI), Bremerhaven, Germany, 2012 and 2013
+* University of Oxford, UK, 2015
 
 Publications
 ======
