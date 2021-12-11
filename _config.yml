@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Milan Klöwer"
-  avatar           : "profile.png"
-  bio              : "Climate computing, information theory, predictability, climate change, aviation. #JuliaLang open-source developer, vegan, low CO₂, bicycles and co-op living, no borders, free education. *354ppm. he|him"
+  avatar           : "2018-08-12 17.27.18.2.jpg"
+  bio              : "Climate Scientist @ University of Oxford\n\nClimate computing, information theory, predictability, climate change, aviation. #JuliaLang open-source developer, vegan, low CO₂, bicycles and co-op living, no borders, free education. *354ppm. he|him"
   location         : "United Queendom"
   employer         : "University of Oxford"
   pubmed           : 
