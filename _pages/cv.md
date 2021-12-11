@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,61 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc Physics of the Earth System, University of Kiel, Germany, 2010-13
+* Marine Physics, University of Western Brittany, France, 2013-14 (year 1 of MSc)
+* MSc Course on the Arctic Atmospheric Boundary Layer, University Centre in Svalbard, 2016
+* MSc Climate Physics, University of Kiel, 2014-2017
+* PhD Climate computing, University of Oxford, 2017-2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Post-doctoral research assistant, University of Oxford, 2017
+* Post-doctoral research assistant, University of Oxford, 2021-2022
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Research visits
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Alfred-Wegener-Institute (AWI), Bremerhaven, Germany, 2012 and 2013
+* University of Oxford, UK, 2015
 
-Publications
+Awards and prizes
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+
+* £10,000 grant for the ECMWF summer of weather code for a project on a climate data compression, May-Oct 2020 and May-Oct 2021.
+* $1000 1st prize in the John Hunter excellence for plotting contest 2019 with the Intuitive Probabilistic Meteogram
+* £1000 Travel Grant by a major publishing company for the best poster at the DTP Student Conference, 2018
+
+Oceanographic research cruises
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
+* Meteor M130. Tropical Atlantic from Mindelo, Cabo Verde to Recife, Brazil, Aug-Oct 2016.
+
+Committee
+======
+
+* Education and Skills coordinator, Oxford Climate Society, 2019/20.
+
+Conference organization
+======
+
+* School of Climate Change, Oxford Climate Society, Hilary & Michaelmas Term 2019 and Hilary 2020, Oxford, UK.
+* Grand Challenges Seminar on Anthropocene and the Post-Truth World, 15 May 2018 at Jesus College, Oxford, UK.
+* Stumeta, 4-8 May 2016 in Kiel, Germany. Conference for meteorology students. stumeta2016.de
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+
+* Software Engineering demonstrator for DTP Environmental Research, Oxford, UK, October 2021
+* Calculating carbon footprints guest lecturer for MSc Sustainable Urban Development, Oxford UK, December 2020 and 2021
+* Numerical modelling demonstrator for DTP Environmental Research, Oxford, UK, October 2018, 2019 and 2020
+* RaspberryPi weather stations at NERC DTP field trip, Exmoor National Park, UK, September 2018
+* Python Programming at GEOMAR Kiel, Germany in June 2016, January 2017 and July 2017
+
+Reviewer for
 ======
-* Currently signed in to 43 different slack teams
+
+* Journal for Advances in Modeling Earth Systems (JAMES)
+* Geoscientific Model Development (GMD)
+* Environmental Research Letters (ERL)
+* Scientometrics
+* Journal of Open Source Software (JOSS)
+
