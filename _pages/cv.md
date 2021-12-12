@@ -9,26 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+# Education
+
 * BSc Physics of the Earth System, University of Kiel, Germany, 2010-13
 * Marine Physics, University of Western Brittany, France, 2013-14 (year 1 of MSc)
 * MSc Course on the Arctic Atmospheric Boundary Layer, University Centre in Svalbard, 2016
 * MSc Climate Physics, University of Kiel, 2014-2017
 * PhD Climate computing, University of Oxford, 2017-2021 (expected)
 
-Work experience
-======
+## Work experience
+
 * Post-doctoral research assistant, University of Oxford, 2017
 * Post-doctoral research assistant, University of Oxford, 2021-2022
 
-Research visits
-======
+### Research visits
+
 * Alfred-Wegener-Institute (AWI), Bremerhaven, Germany, 2012 and 2013
 * University of Oxford, UK, 2015
 
-Awards and prizes
-======
+#### Awards and prizes
 
 * £10,000 grant for the ECMWF summer of weather code for a project on a climate data compression, May-Oct 2020 and May-Oct 2021.
 * $1000 1st prize in the John Hunter excellence for plotting contest 2019 with the Intuitive Probabilistic Meteogram
