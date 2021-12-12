@@ -29,8 +29,8 @@ redirect_from:
 
 ### Awards and prizes
 
-* £10,000 grant for the [ECMWF](https://ecmwf.int) summer of weather code for a project on a climate data compression, May-Oct 2020 and May-Oct 2021.
-* $1000 1st prize in the John Hunter excellence for plotting contest 2019 with the Intuitive Probabilistic Meteogram
+* £10,000 grant for the [ECMWF](https://ecmwf.int) [summer of weather code](https://esowc.ecmwf.int/) for a project on a climate data compression, May-Oct 2020 and May-Oct 2021.
+* $1000 1st prize in the [Scipy](https://scipy.org/) [John Hunter excellence for plotting contest 2019](https://jhepc.github.io/gallery.html) with the [Intuitive Probabilistic Meteogram](https://github.com/milankl/prob_meteogram)
 * £1000 Travel Grant by a major publishing company for the best poster at the DTP Student Conference, 2018
 
 ### Oceanographic research cruises
