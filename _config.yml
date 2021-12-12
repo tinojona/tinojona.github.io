@@ -11,7 +11,7 @@ title                    : "milank.de"
 title_separator          : "-"
 name                     : &name "Milan Klöwer"
 description              : &description "Climate Scientist"
-url                      : https://milankl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://milankl.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "milankl/milankl.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark" # "light" (default), "dark"
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
