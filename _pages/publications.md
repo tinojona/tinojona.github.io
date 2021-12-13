@@ -31,3 +31,31 @@ Klöwer M, MF Jansen, M Claus, RJ Greatbatch and S Thomsen, 2018. *Energy budget
 Klöwer M, M Latif, H Ding, RJ Greatbatch and W Park, 2014. *Atlantic meridional overturning circulation and the prediction of North Atlantic sea surface temperature*, **Earth and Planetary Science Letters**, 406,  [10.1016/j.epsl.2014.09.001](https://doi.org/10.1016/j.epsl.2014.09.001)
 
 Klöwer M, T Jung, G König-Langlo and T Semmler, 2013. *Aspects of weather parameters at Neumayer station, Antarctica, and their representation in reanalysis and climate model data*, **Meteorologische Zeitschrift**, 22 (6), [10.1127/0941-2948/2013/0505](https://doi.org/10.1127/0941-2948/2013/0505)
+
+### Theses
+
+Klöwer, M, 2021. *Low-precision climate computing: Preserving information despite fewer bits* (PhD thesis), University of Oxford, UK, 177p.
+
+Klöwer, M, 2017. *Energy budget-based backscatter in a non-linear shallow water model driven by double gyre wind forcing* (Master's thesis), Christian-Albrechts-Universität zu Kiel, Kiel, Germany, 92 pp.
+
+Klöwer, M, 2013. *Perspectives for predicting North Atlantic decadal sea surface temperature variability* (Bachelor's thesis), Christian-Albrechts-Universität zu Kiel, Kiel, Germany, 53 pp.
+
+### Reports
+
+Klöwer, M, 2019. *Towards weather and climate models in 16-bit arithmetic* (Confirmation of status), University of Oxford.
+
+Klöwer, M, 2019. *Towards 16bit weather and climate models: Posit numbers as an alternative to floating-point numbers* (Transfer of status), University of Oxford.
+
+Klöwer, M and C Sarchosidis, 2016. *The influence of low-level wind shear on the surface
+turbulence kinetic energy production in Adventdalen, Svalbard*, (Final report for AGF-350/850), University Centre in Svalbard, 14pp.
+
+Klöwer, M and E Köhn, 2016. *Solving the steady Navier-Stokes equations with Finite Element Methods*.
+
+Klöwer, M, 2014. *Implementing level set methods into a 2D Boussinesq model*
+
+
+### Essays
+
+Klöwer, M, 2017. *Time and length scales of physical processes in the global oceans*, PhD application essay.
+
+Klöwer, M, 2017. *Approximate computing in climate simulations*, PhD application proposal.
