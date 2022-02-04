@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-
 *Unfortunately, not all publications are open access. If you want to have a copy, please don't pay for it, just drop me an email and I'll send it to you personally. It's completely legal, and I am very happy to do this.*
 
 - Klöwer M, S Hatfield, M Croci, PD Düben and TN Palmer, 2022. *Fluid simulations accelerated with 16 bits: Approaching 4x speedup on A64FX by squeezing ShallowWaters.jl into Float16*, **Journal of Advances in Modeling Earth Systems**, 14, [10.1029/2021MS002684](https://doi.org/10.1029/2021MS002684)
@@ -15,7 +13,7 @@ author_profile: true
 - Klöwer M, MR Allen, DS Lee, SR Proud, L Gallagher and A Skowron, 2021. *Quantifying aviation's contribution to global warming*, **Environmental Research Letters**, 16 (2021) 104027, [10.1088/1748-9326/ac286e](https://doi.org/10.1088/1748-9326/ac286e)
 - Hollander K, M Klöwer, A Richardson, L Navarro, S Racinais, V Scheer, A Murray, P Branco, T Timpka, A Junge and P Edouard, 2021. *Apparent temperature and heat-related illnesses during international athletic championships: A prospective cohort study*, **Scandinavian Journal for Medicine and Science in Sports**, 31 (11), 2092-2102, [10.1111/sms.14029](https://doi.org/10.1111/sms.14029).
 - Klöwer M, PD Düben and TN Palmer, 2020. *Number formats, error mitigation and scope for 16-bit arithmetics in weather and climate modelling analyzed with a shallow water model*, **Journal of Advances in Modeling Earth Systems**, 12, e2020MS002246. [10.1029/2020MS002246](https://doi.org/10.1029/2020MS002246)
-- Klöwer M, D Hopkins, M Allen and J Higham, 2020. *An analysis of ways to decarbonize conference travel after COVID-19*, **Nature**, 583, 356-359, [10.1038/d41586-020-02057-2](https://doi.org/10.1038/d41586-020-02057-2) <div class='altmetric-embed' data-altmetric-id="85822821"></div>
+- Klöwer M, D Hopkins, M Allen and J Higham, 2020. *An analysis of ways to decarbonize conference travel after COVID-19*, **Nature**, 583, 356-359, [10.1038/d41586-020-02057-2](https://doi.org/10.1038/d41586-020-02057-2)
 - Klöwer M, PD Düben and TN Palmer, 2019. *Posits as an alternative to floats for weather and climate models*, In Conference for Next Generation Arithmetic 2019 (CoNGA'19), **ACM**, [10.1145/3316279.3316281](https://doi.org/10.1145/3316279.3316281)
 - Klöwer M, MF Jansen, M Claus, RJ Greatbatch and S Thomsen, 2018. *Energy budget-based backscatter in a shallow water model of a double gyre basin*, **Ocean Modelling**, 132, [10.1016/j.ocemod.2018.09.006](https://doi.org/10.1016/j.ocemod.2018.09.006)
 - Klöwer M, M Latif, H Ding, RJ Greatbatch and W Park, 2014. *Atlantic meridional overturning circulation and the prediction of North Atlantic sea surface temperature*, **Earth and Planetary Science Letters**, 406,  [10.1016/j.epsl.2014.09.001](https://doi.org/10.1016/j.epsl.2014.09.001)
