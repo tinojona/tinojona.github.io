@@ -19,12 +19,12 @@ The 16-bit model was scaled to minimize under and overflows and a compensated ti
 ---
 
 Solid particle advection from IndividualDisplacements.jl compared to the tracer advection of ShallowWaters.jl.
-<img src="https://github.com/milankl/milankl.github.io/blob/main/files/test.gif" width="700px">
+<img src="https://raw.githubusercontent.com/milankl/milankl.github.io/main/files/test.gif" width="700px">
 
 ---
 
 An MPI-parallelized non-linear 1D shallow water model.
-<img src="https://github.com/milankl/milankl.github.io/blob/main/files/wave.gif" width="700px">
+<img src="https://raw.githubusercontent.com/milankl/milankl.github.io/main/files/wave.gif" width="700px">
 
 ---
 
