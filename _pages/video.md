@@ -11,7 +11,7 @@ Kelvin-wave induced equatorial current that gets unstable. 3200x800 grid points 
 
 ---
 
-Comparing 16 to 64-bit float arithmetic in ShallowWaters.jl.
+Comparing 16 to 64-bit float arithmetic in ShallowWaters.jl at 3000x1500 grid points on Fujitsu's A64FX microprocessor.
 The 16-bit model was scaled to minimize under and overflows and a compensated time integration to reduce rounding errors.
 <video src="https://raw.githubusercontent.com/milankl/milankl.github.io/main/files/a64fx_float16.mp4" controls="controls" style="max-width: 730px;">
 </video>
