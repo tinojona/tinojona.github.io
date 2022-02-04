@@ -10,11 +10,11 @@ author_profile: true
 - Google Scholar [Milan Klöwer](https://scholar.google.com/citations?user=dCq79A4AAAAJ)
 - ORCID [0000-0002-3920-4356](https://orcid.org/0000-0002-3920-4356)
 
-Klöwer M, S Hatfield, M Croci, PD Düben and TN Palmer, 2021. *Fluid simulations accelerated with 16 bits: Approaching 4x speedup on A64FX by squeezing ShallowWaters.jl into Float16*, **Journal of Advances in Modeling Earth Systems**, accepted. Preprint [10.1002/essoar.10507472.2](https://doi.org/10.1002/essoar.10507472.2)
+Klöwer M, S Hatfield, M Croci, PD Düben and TN Palmer, 2022. *Fluid simulations accelerated with 16 bits: Approaching 4x speedup on A64FX by squeezing ShallowWaters.jl into Float16*, **Journal of Advances in Modeling Earth Systems**, 14, [10.1029/2021MS002684](https://doi.org/10.1029/2021MS002684)
+
+Paxton EA, M Chantry, M Klöwer, L Saffin, TN Palmer, 2022. *Climate Modelling in Low-Precision: Effects of both Deterministic & Stochastic Rounding*, **Journal of Climate**, [10.1175/JCLI-D-21-0343.1](https://doi.org/10.1175/JCLI-D-21-0343.1)
 
 Klöwer M, M Razinger, JJ Dominguez, PD Düben and TN Palmer, 2021. *Compressing atmospheric data into its real information content*, **Nature Computational Science**, 1, 713-724, [10.1038/s43588-021-00156-2](https://doi.org/10.1038/s43588-021-00156-2)
-
-Paxton EA, M Chantry, M Klöwer, L Saffin, TN Palmer, 2021. *Climate Modelling in Low-Precision: Effects of both Deterministic & Stochastic Rounding*, **Journal of Climate**, [10.1175/JCLI-D-21-0343.1](https://doi.org/10.1175/JCLI-D-21-0343.1)
 
 Klöwer M, MR Allen, DS Lee, SR Proud, L Gallagher and A Skowron, 2021. *Quantifying aviation's contribution to global warming*, **Environmental Research Letters**, 16 (2021) 104027, [10.1088/1748-9326/ac286e](https://doi.org/10.1088/1748-9326/ac286e)
 
