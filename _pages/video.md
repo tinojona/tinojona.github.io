@@ -18,6 +18,16 @@ The 16-bit model was scaled to minimize under and overflows and a compensated ti
 
 ---
 
+Solid particle advection from IndividualDisplacements.jl compared to the tracer advection of ShallowWaters.jl.
+<img src="https://github.com/milankl/milankl.github.io/blob/main/files/test.gif" width="700px">
+
+---
+
+An MPI-parallelized non-linear 1D shallow water model.
+<img src="https://github.com/milankl/milankl.github.io/blob/main/files/wave.gif" width="700px">
+
+---
+
 Using 16-bit posit arithmetic to simulate turbulence in a channel simulation at 10km resolution. The entire model is run with 16-bit posit arithmetic.
 <video src="https://raw.githubusercontent.com/milankl/milankl.github.io/main/files/tracer_posit_hr_single.mp4" controls="controls" style="max-width: 730px;">
 </video>
