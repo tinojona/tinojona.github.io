@@ -32,12 +32,12 @@ variability*](https://oceanrep.geomar.de/23208/), Christian-Albrechts-Universit�
 
 - Klöwer, M, 2019. *Towards weather and climate models in 16-bit arithmetic* (Confirmation of status), University of Oxford.
 - Klöwer, M, 2019. *Towards 16bit weather and climate models: Posit numbers as an alternative to floating-point numbers* (Transfer of status), University of Oxford.
-- Klöwer, M and C Sarchosidis, 2016. *The influence of low-level wind shear on the surface
-turbulence kinetic energy production in Adventdalen, Svalbard*, (Final report for AGF-350/850), University Centre in Svalbard, 14pp.
-- Klöwer, M and E Köhn, 2016. *Solving the steady Navier-Stokes equations with Finite Element Methods*.
-- Klöwer, M, 2014. *Implementing level set methods into a 2D Boussinesq model*
+- C Sarchosidis and M Klöwer, 2016. *The influence of low-level wind shear on the surface
+turbulence kinetic energy production in Adventdalen, Svalbard*, (Final report for AGF-350/850), University Centre in Svalbard, 14pp. [[pdf here]](https://github.com/milankl/milankl.github.io/blob/main/files/SEB_harrymilan.pdf)
+- Klöwer, M and E Köhn, 2016. *Solving the steady Navier-Stokes equations with Finite Element Methods*. [[pdf here]](https://github.com/milankl/milankl.github.io/blob/main/files/FEM_KoehnKloewer.pdf)
+- Klöwer, M, 2014. *Implementing level set methods into a 2D Boussinesq model*. [[pdf here]](https://github.com/milankl/milankl.github.io/blob/main/files/levelset.pdf)
 
 ### Essays
 
-- Klöwer, M, 2017. *Time and length scales of physical processes in the global oceans*, PhD application essay.
-- Klöwer, M, 2017. *Approximate computing in climate simulations*, PhD application proposal.
+- Klöwer, M, 2017. *Time and length scales of physical processes in the global oceans*, PhD application essay. [[pdf here]](https://github.com/milankl/milankl.github.io/blob/main/files/MKloewer_writtenwork.pdf)
+- Klöwer, M, 2017. *Approximate computing in climate simulations*, PhD application proposal. [[pdf here]](https://github.com/milankl/milankl.github.io/blob/main/files/MKloewer_proposal.pdf)
