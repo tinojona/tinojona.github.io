@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Milan Klöwer"
-  avatar           : "square.jpg"
+  avatar           : "square_blur.jpg"
   bio              : "Climate scientist PhD MSc<br>@University of Oxford"
   bio2             : "Climate computing, information theory, predictability, climate change, aviation."
   bio3             : "#JuliaLang open-source developer, vegan, low CO₂, bicycles and co-op living, no borders, free education."
