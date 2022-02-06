@@ -17,4 +17,5 @@ Content
 Layout and settings
 
 - [Header navigation](https://github.com/milankl/milankl.github.io/blob/main/_data/navigation.yml)
+- [Footer](https://github.com/milankl/milankl.github.io/blob/main/_includes/footer/custom.html)
 - [Fonts and colours](https://github.com/milankl/milankl.github.io/blob/main/_sass/_variables.scss)
