@@ -37,4 +37,9 @@ author_profile: true
 - 🪑 Chaired the [Flying and Climate Change seminar](https://www.youtube.com/watch?v=vBMbo0h1VXs) of the __Oxford Climate Society__, 06/2020
 - 🏫 [Flying Start Physics](https://www.physics.ox.ac.uk/engage/schools/secondary-schools/oxford-schools) lecture on _From chaos to climate predictions_ for prospective physics students, University of Oxford, 09/2019
 
+# Altmetric scores
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="85822821"></div>
+
 Updated Feb 2022.
