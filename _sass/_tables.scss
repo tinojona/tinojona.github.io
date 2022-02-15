@@ -15,12 +15,7 @@ table {
   }
 }
 
-thead {
-  background-color: $lighter-gray;
-  border-bottom: 0px solid $light-gray;
-}
-
-th {
+thead, th {
   padding: 0.1em;
   font-weight: normal;
   text-align: left;
