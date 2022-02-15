@@ -40,10 +40,12 @@ author_profile: true
 # Altmetric scores
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<div class="altmetric-embed" data-badge-type="2" data-altmetric-id="85822821"></div>
-<div class="altmetric-embed" data-badge-type="2" data-altmetric-id="116219760"></div>
-<div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="117651120"></div>
-<div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="89952744"></div>
-<div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="121706714"></div>
+
+<div class="altmetric-embed" data-badge-type="2" data-altmetric-id="121706714"></div> Klöwer et al., 2022, Journal of Advances in Modeling Earth Systems.
+<div class="altmetric-embed" data-badge-type="2" data-altmetric-id="117651120"></div> Klöwer et al., 2021, Nature Computational Science. 
+<div class="altmetric-embed" data-badge-type="2" data-altmetric-id="116219760"></div> Klöwer et al., 2021, Environmental Research Letters.
+<div class="altmetric-embed" data-badge-type="2" data-altmetric-id="111037812"></div> Hollander, Klöwer, et al., 2021, Scandinavian Journal of Medicine & Science in Sports.
+<div class="altmetric-embed" data-badge-type="2" data-altmetric-id="89952744"></div> Klöwer et al., 2020, Journal of Advances in Modeling Earth Systems.
+<div class="altmetric-embed" data-badge-type="2" data-altmetric-id="85822821"></div> Klöwer et al., 2020, Nature.  
 
 Updated Feb 2022.
