@@ -10,6 +10,7 @@ Content
 - [About](https://github.com/milankl/milankl.github.io/edit/main/_pages/publications.md)
 - [Publications](https://github.com/milankl/milankl.github.io/edit/main/_pages/publications.md)
 - [Presentations](https://github.com/milankl/milankl.github.io/edit/main/_pages/presentations.md)
+- [Media & outreach](https://github.com/milankl/milankl.github.io/blob/main/_pages/media_coverage.md)
 - [CV](https://github.com/milankl/milankl.github.io/edit/main/_pages/cv.md)
 - [Videos](https://github.com/milankl/milankl.github.io/edit/main/_pages/videos.md)
 - [Files](https://github.com/milankl/milankl.github.io/tree/main/files)
