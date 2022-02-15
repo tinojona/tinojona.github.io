@@ -44,14 +44,28 @@ author_profile: true
 <table>
   <tr>
     <td><div class="altmetric-embed" data-badge-type="2" data-altmetric-id="121706714"></div></td>
-    <td>TKlöwer et al., 2022, Journal of Advances in Modeling Earth Systems.</td>
+    <td>Klöwer et al., 2022, Journal of Advances in Modeling Earth Systems.</td>
+  </tr>
+  <tr>
+    <td><div class="altmetric-embed" data-badge-type="2" data-altmetric-id="117651120"></div></td>
+    <td>Klöwer et al., 2021, Nature Computational Science.</td>
+  </tr>
+  <tr>
+    <td><div class="altmetric-embed" data-badge-type="2" data-altmetric-id="116219760"></div></td>
+    <td>Klöwer et al., 2021, Environmental Research Letters.</td>
+  </tr>
+  <tr>
+    <td><div class="altmetric-embed" data-badge-type="2" data-altmetric-id="111037812"></div></td>
+    <td>Hollander, Klöwer, et al., 2021, Scandinavian Journal of Medicine & Science in Sports.</td>
+  </tr>
+  <tr>
+    <td><div class="altmetric-embed" data-badge-type="2" data-altmetric-id="89952744"></div></td>
+    <td>Klöwer et al., 2020, Journal of Advances in Modeling Earth Systems.</td>
+  </tr>
+  <tr>
+    <td><div class="altmetric-embed" data-badge-type="2" data-altmetric-id="85822821"></div></td>
+    <td>Klöwer et al., 2020, Nature.</td>
   </tr>
 </table>
-
-<div class="altmetric-embed" data-badge-type="2" data-altmetric-id="117651120"></div> Klöwer et al., 2021, Nature Computational Science. 
-<div class="altmetric-embed" data-badge-type="2" data-altmetric-id="116219760"></div> Klöwer et al., 2021, Environmental Research Letters.
-<div class="altmetric-embed" data-badge-type="2" data-altmetric-id="111037812"></div> Hollander, Klöwer, et al., 2021, Scandinavian Journal of Medicine & Science in Sports.
-<div class="altmetric-embed" data-badge-type="2" data-altmetric-id="89952744"></div> Klöwer et al., 2020, Journal of Advances in Modeling Earth Systems.
-<div class="altmetric-embed" data-badge-type="2" data-altmetric-id="85822821"></div> Klöwer et al., 2020, Nature.  
 
 Updated Feb 2022.
