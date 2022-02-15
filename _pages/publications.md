@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
 *Unfortunately, not all publications are open access. If you want to have a copy, please don't pay for it, just drop me an email and I'll send it to you personally. It's completely legal, and I am very happy to do this.*
 
 - Klöwer M, S Hatfield, M Croci, PD Düben and TN Palmer, 2022. *Fluid simulations accelerated with 16 bits: Approaching 4x speedup on A64FX by squeezing ShallowWaters.jl into Float16*, **Journal of Advances in Modeling Earth Systems**, 14, [10.1029/2021MS002684](https://doi.org/10.1029/2021MS002684)
