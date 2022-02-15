@@ -41,11 +41,12 @@ author_profile: true
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
-<div style="display: inline;">
-  <div class="altmetric-embed" data-badge-type="2" data-altmetric-id="121706714"></div>
-  <div>Klöwer et al., 2022, Journal of Advances in Modeling Earth Systems.</div>
-</div>
-<div style="clear: both;"></div>
+<table>
+  <tr>
+    <td><div class="altmetric-embed" data-badge-type="2" data-altmetric-id="121706714"></div></td>
+    <td>TKlöwer et al., 2022, Journal of Advances in Modeling Earth Systems.</td>
+  </tr>
+</table>
 
 <div class="altmetric-embed" data-badge-type="2" data-altmetric-id="117651120"></div> Klöwer et al., 2021, Nature Computational Science. 
 <div class="altmetric-embed" data-badge-type="2" data-altmetric-id="116219760"></div> Klöwer et al., 2021, Environmental Research Letters.
