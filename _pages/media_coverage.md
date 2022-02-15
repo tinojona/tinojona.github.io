@@ -41,5 +41,9 @@ author_profile: true
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="85822821"></div>
+<div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="116219760"></div>
+<div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="117651120"></div>
+<div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="89952744"></div>
+<div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="121706714"></div>
 
 Updated Feb 2022.
