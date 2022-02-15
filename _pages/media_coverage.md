@@ -41,7 +41,7 @@ author_profile: true
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
-<div class="altmetric-embed" data-badge-type="2" data-altmetric-id="121706714"></div> Klöwer et al., 2022, Journal of Advances in Modeling Earth Systems.
+<div class="altmetric-embed" data-badge-type="2" data-altmetric-id="121706714">Klöwer et al., 2022, Journal of Advances in Modeling Earth Systems.</div>
 <div class="altmetric-embed" data-badge-type="2" data-altmetric-id="117651120"></div> Klöwer et al., 2021, Nature Computational Science. 
 <div class="altmetric-embed" data-badge-type="2" data-altmetric-id="116219760"></div> Klöwer et al., 2021, Environmental Research Letters.
 <div class="altmetric-embed" data-badge-type="2" data-altmetric-id="111037812"></div> Hollander, Klöwer, et al., 2021, Scandinavian Journal of Medicine & Science in Sports.
