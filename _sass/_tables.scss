@@ -17,6 +17,8 @@ table {
 
 thead, th {
   padding: 0.1em;
+  padding-left: 0.2em;
+  padding-right: 0.2em;
   font-weight: normal;
   text-align: left;
   border-right: 0px solid $light-gray;
@@ -24,6 +26,8 @@ thead, th {
 
 td {
   padding: 0.1em;
+  padding-left: 0.2em;
+  padding-right: 0.2em;
   border-bottom: 0px solid $light-gray;
   border-right: 0px solid $light-gray;
 }
