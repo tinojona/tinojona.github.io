@@ -5,37 +5,28 @@ permalink: /media_coverage/
 author_profile: true
 ---
 
-- 🎤 Featured in [The Oxford Flying Less podcast](https://anchor.fm/noah-birksted-breen/episodes/Why-do-we-fly--could-we-fly-less--The-Flying-Less-movement-in-the-Higher-Education-Sector-e1dbn03) by N Birksted-Breen, University of Oxford, 02/2022
-- 🗞️ Featured in [Conferences comeback faces climate challenge](https://www.reuters.com/world/the-great-reboot/conferences-comeback-faces-climate-challenge-2022-01-28/), by D Kaye, __Reuters__, 01/2022
-- 🖼️ [Front cover](https://www.nature.com/natcomputsci/volumes/1/issues/11) of __Nature Computational Science__ Volume 1, Issue 11, 11/2021
-- 🗞️ Featured in [Advancing data compression via noise detection](https://www.nature.com/articles/s43588-021-00167-z) by Hammerling & Baker, __Nature Computational Science News & Views__, 11/2021
-- 🎤 [Radio interview on aviation](https://www.bbc.co.uk/sounds/play/p0b56v4r) broadcast by __BBC Radio 5 Live__, 11/2021
-- 🎤 Radio interview on [Flying less may be enough for the climate](https://www.thenakedscientists.com/articles/interviews/flying-bit-less-may-be-enough-climate), for the __Naked Scientist__ 11/2021
-- 🗞️ Featured in [Aviation slashed with gradual changes](https://www.thenakedscientists.com/articles/science-news/aviation-warming-slashed-gradual-changes) by V Viisainen, __The Naked Scientist__, 11/2021
-- ✍️ Article in __The Conversation__ on [Reducing air travel by small amounts each year could level off the climate impact](https://theconversation.com/reducing-air-travel-by-small-amounts-each-year-could-level-off-the-climate-impact-171184), 11/2021     
-- 🎤 [Interview](https://www.rnz.co.nz/national/programmes/morningreport/audio/2018819256/cop26-looks-into-global-flying-habits) with __Radio New Zealand__'s Morning Reports on aviation and COP26, 11/2021
-- 🗞️ Featured in [__The Guardian__](https://www.theguardian.com/world/2021/nov/04/small-cuts-in-air-traffic-would-level-off-global-heating-caused-by-flying-study),
-[The Independent](https://www.independent.co.uk/travel/news-and-advice/flight-global-warming-carbon-footprint-b1952120.html),
-[I News](https://inews.co.uk/news/environment/climate-change-cop26-flying-twice-damaging-climate-previously-thought-1284012),
-[Institute of Physics](https://phys.org/news/2021-11-aviation-present-day-contribution-human-induced-global.html), 
-[The Financial](https://finchannel.com/aviations-contribution-to-global-warming-higher-than-expected/),
-[SpaceRef](http://www.spaceref.com/news/viewpr.html?pid=58659),
-[MMU News](https://www.mmu.ac.uk/news-and-events/news/story/14591/),
-[Institution of Mechanical Engineers](https://www.imeche.org/news/news-article/aviation-needs-fundamental-change-now-and-radical-innovation-in-future-to-limit-warming),
-[Earth.com](https://www.earth.com/news/aviation-has-greater-environmental-impact-than-expected/),
-[Engineering and Technology](https://eandt.theiet.org/content/articles/2021/11/aviation-could-consume-one-sixth-of-remaining-temperature-budget/),
-11/2021
-- 🗞️ Featured in [How climate coverage can drive change](https://doi.org/10.1038/d41586-021-03002-7) by A Nowogrodzki, __Nature News__, 11/2021
-- 🎤 [Interview](https://www.pri.org/file/2021-10-06/google-introduces-green-changes) with Carolyn Beeler for the radio programme __The World__, 10/2021
-- 🗞️ Featured in [Google Flights will now show you the environmental impact of your travel](https://www.washingtonpost.com/travel/2021/10/06/google-flights-carbon-footprint-travel/) by NB Compton, __The Washington Post__, 10/2021
-- 🗞️ Featured in [How to actually make your travel better for the planet](https://www.washingtonpost.com/travel/tips/sustainable-travel-climate-change-ecotourism/) by NB Compton, __The Washington Post__, 09/2021
-- 📡 [Daily heat forecasts for the Tokyo Olympics](https://twitter.com/HeatForecast) in collaboration with ECMWF and the Medical School Hamburg, 08/2021
-- 📗 Featured in Zen Faulkes' book [Better Posters](https://pelagicpublishing.com/products/better-posters-zen-faulkes) published by __Pelagic Publishing Ltd__, 05/2021
-- 📄 [Carbon tracker](https://egu21.eu/about/green_egu.html) in collaboration with the __European Geoscience Union__ for their virtual assembly, 04/2021
-- 🗞️ Featured in [Rethinking travel in a post-pandemic world](https://www.nature.com/articles/d41586-020-03649-8?sf241802425=1) by J Glausiusz, __Nature Career Feature__, 01/2021
-- 🎤 Interview with __BBC4 Radio__ on aviation and climate, 09/2020
-- 🪑 Chaired the [Flying and Climate Change seminar](https://www.youtube.com/watch?v=vBMbo0h1VXs) of the __Oxford Climate Society__, 06/2020
-- 🏫 [Flying Start Physics](https://www.physics.ox.ac.uk/engage/schools/secondary-schools/oxford-schools) lecture on _From chaos to climate predictions_ for prospective physics students, University of Oxford, 09/2019
+|02/2022| 🎤 Featured in [The Oxford Flying Less podcast](https://anchor.fm/noah-birksted-breen/episodes/Why-do-we-fly--could-we-fly-less--The-Flying-Less-movement-in-the-Higher-Education-Sector-e1dbn03) by N Birksted-Breen, University of Oxford|
+|-|-|
+|01/2022| 🗞️ Featured in [Conferences comeback faces climate challenge](https://www.reuters.com/world/the-great-reboot/conferences-comeback-faces-climate-challenge-2022-01-28/), by D Kaye, __Reuters__|
+|11/2021| 🖼️ [Front cover](https://www.nature.com/natcomputsci/volumes/1/issues/11) of __Nature Computational Science__ Volume 1, Issue 11|
+|11/2021| 🗞️ Featured in [Advancing data compression via noise detection](https://www.nature.com/articles/s43588-021-00167-z) by Hammerling & Baker, __Nature Computational Science News & Views__|
+|11/2021| 🎤 [Radio interview on aviation](https://www.bbc.co.uk/sounds/play/p0b56v4r) broadcast by __BBC Radio 5 Live__|
+|11/2021| 🎤 Radio interview on [Flying less may be enough for the climate](https://www.thenakedscientists.com/articles/interviews/flying-bit-less-may-be-enough-climate), for the __Naked Scientist__|
+|11/2021| 🗞️ Featured in [Aviation slashed with gradual changes](https://www.thenakedscientists.com/articles/science-news/aviation-warming-slashed-gradual-changes) by V Viisainen, __The Naked Scientist__|
+|11/2021| ✍️ Article in __The Conversation__ on [Reducing air travel by small amounts each year could level off the climate impact](https://theconversation.com/reducing-air-travel-by-small-amounts-each-year-could-level-off-the-climate-impact-171184)|     
+|11/2021| 🎤 [Interview](https://www.rnz.co.nz/national/programmes/morningreport/audio/2018819256/cop26-looks-into-global-flying-habits) with __Radio New Zealand__'s Morning Reports on aviation and COP26|
+|11/2021| 🗞️ Featured in [__The Guardian__](https://www.theguardian.com/world/2021/nov/04/small-cuts-in-air-traffic-would-level-off-global-heating-caused-by-flying-study), [The Independent](https://www.independent.co.uk/travel/news-and-advice/flight-global-warming-carbon-footprint-b1952120.html), [I News](https://inews.co.uk/news/environment/climate-change-cop26-flying-twice-damaging-climate-previously-thought-1284012), [Institute of Physics](https://phys.org/news/2021-11-aviation-present-day-contribution-human-induced-global.html), [The Financial](https://finchannel.com/aviations-contribution-to-global-warming-higher-than-expected/), [SpaceRef](http://www.spaceref.com/news/viewpr.html?pid=58659), [MMU News](https://www.mmu.ac.uk/news-and-events/news/story/14591/), [Institution of Mechanical Engineers](https://www.imeche.org/news/news-article/aviation-needs-fundamental-change-now-and-radical-innovation-in-future-to-limit-warming), [Earth.com](https://www.earth.com/news/aviation-has-greater-environmental-impact-than-expected/), [Engineering and Technology](https://eandt.theiet.org/content/articles/2021/11/aviation-could-consume-one-sixth-of-remaining-temperature-budget/)|
+|11/2021| 🗞️ Featured in [How climate coverage can drive change](https://doi.org/10.1038/d41586-021-03002-7) by A Nowogrodzki, __Nature News__|
+|10/2021| 🎤 [Interview](https://www.pri.org/file/2021-10-06/google-introduces-green-changes) with Carolyn Beeler for the radio programme __The World__|
+|10/2021| 🗞️ Featured in [Google Flights will now show you the environmental impact of your travel](https://www.washingtonpost.com/travel/2021/10/06/google-flights-carbon-footprint-travel/) by NB Compton, __The Washington Post__|
+|09/2021| 🗞️ Featured in [How to actually make your travel better for the planet](https://www.washingtonpost.com/travel/tips/sustainable-travel-climate-change-ecotourism/) by NB Compton, __The Washington Post__|
+|08/2021| 📡 [Daily heat forecasts for the Tokyo Olympics](https://twitter.com/HeatForecast) in collaboration with ECMWF and the Medical School Hamburg|
+|05/2021| 📗 Featured in Zen Faulkes' book [Better Posters](https://pelagicpublishing.com/products/better-posters-zen-faulkes) published by __Pelagic Publishing Ltd__|
+|04/2021| 📄 [Carbon tracker](https://egu21.eu/about/green_egu.html) in collaboration with the __European Geoscience Union__ for their virtual assembly, 04/2021
+|01/2021| 🗞️ Featured in [Rethinking travel in a post-pandemic world](https://www.nature.com/articles/d41586-020-03649-8?sf241802425=1) by J Glausiusz, __Nature Career Feature__|
+|09/2020| 🎤 Interview with __BBC4 Radio__ on aviation and climate|
+|06/2020| 🪑 Chaired the [Flying and Climate Change seminar](https://www.youtube.com/watch?v=vBMbo0h1VXs) of the __Oxford Climate Society__|
+|09/2019| 🏫 [Flying Start Physics](https://www.physics.ox.ac.uk/engage/schools/secondary-schools/oxford-schools) lecture on _From chaos to climate predictions_ for prospective physics students, University of Oxford|
 
 # Altmetric scores
 
