@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "milaηk.Δe"
+title                    : "milaηk.de"
 title_separator          : "-"
 name                     : &name "Milan Klöwer"
 description              : &description "PhD MSc, Climate Scientist"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Milan Klöwer"
   avatar           : "square_blur.jpg"
-  bio              : "Climate scientist PhD MSc<br>@University of Oxford"
+  bio              : "Climate scientist, PhD MSc @University of Oxford"
   bio2             : "Climate computing, information theory, predictability, climate change, aviation."
   bio3             : "#JuliaLang open-source developer, vegan, low CO₂, bicycles and co-op living, no borders, free education."
   bio4             : "*354ppm. he|him"
