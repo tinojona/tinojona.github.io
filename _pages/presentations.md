@@ -5,8 +5,10 @@ permalink: /presentations/
 author_profile: true
 ---
 
-| 02/2021 | Klöwer et al. _Accelerating fluid simulations with 16 bits: Approaching 4x speedups on A64FX_, SIAM Parallel Processing for Scientific Computing, virtually ([abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=116889), [slides](https://nlagrouporg.files.wordpress.com/2022/02/m.kloewer-siam-pp22-slides.pdf)). |
+| 03/2021 | Klöwer et al. _Low-precision climate computing_, Princeton Plasma Physics Laboratory seminar, virtually. |
 | --- | --- |
+| 03/2021 | Klöwer et al. _Low-precision climate computing_, PIK Potsdam / TUM Munich Wednesday seminar, virtually. |
+| 02/2021 | Klöwer et al. _Accelerating fluid simulations with 16 bits: Approaching 4x speedups on A64FX_, SIAM Parallel Processing for Scientific Computing, virtually ([abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=116889), [slides](https://nlagrouporg.files.wordpress.com/2022/02/m.kloewer-siam-pp22-slides.pdf)). |
 | 02/2021 | Klöwer et al. _Like .mp3 or .jpg but for climate data_, NCAS Friday seminar, virtually. |
 | 02/2021 | Klöwer et al. _Compressing atmospheric data into its real information content_, Compression Workshop, NCAS Reading, virtually. |
 | 11/2021 | Klöwer et al. _Faster weather and climate simulations with 16-bit arithmetic_, Mathematics of the Climate Crisis, Edinburgh, UK ([poster](https://doi.org/10.13140/RG.2.2.24247.44964)) |
