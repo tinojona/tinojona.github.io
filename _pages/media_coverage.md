@@ -60,5 +60,3 @@ author_profile: true
     <td>Klöwer et al., 2020, Nature.</td>
   </tr>
 </table>
-
-Updated Feb 2022.
