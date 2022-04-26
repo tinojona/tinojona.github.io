@@ -9,7 +9,7 @@ author_profile: true
 |-|-|
 |03/2022| 🗞️ Featured in [Oxford students protest university's fossil fuel funding](https://www.oxfordmail.co.uk/news/19977801.oxford-students-drink-crude-oil-protest-universitys-1-6-mil-fossil-fuel-funding/) by S Adie, __Oxford Mail__|
 |02/2022| 🎤 Featured in [The Oxford Flying Less podcast](https://anchor.fm/noah-birksted-breen/episodes/Why-do-we-fly--could-we-fly-less--The-Flying-Less-movement-in-the-Higher-Education-Sector-e1dbn03) by N Birksted-Breen, University of Oxford|
-|11/2021| 🖼️ [Front cover](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/jame.21370) of __Journal of Advances in Modeling Earth Systems__ February 2022, Volume 14, [Issue 2](https://agupubs.onlinelibrary.wiley.com/toc/19422466/2022/14/2)|
+|02/2022| 🖼️ [Front cover](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/jame.21370) of __Journal of Advances in Modeling Earth Systems__ February 2022, Volume 14, [Issue 2](https://agupubs.onlinelibrary.wiley.com/toc/19422466/2022/14/2)|
 |01/2022| 🗞️ Featured in [Conferences comeback faces climate challenge](https://www.reuters.com/world/the-great-reboot/conferences-comeback-faces-climate-challenge-2022-01-28/), by D Kaye, __Reuters__|
 |11/2021| 🖼️ [Front cover](https://www.nature.com/natcomputsci/volumes/1/issues/11) of __Nature Computational Science__ Volume 1, Issue 11|
 |11/2021| 🗞️ Featured in [Advancing data compression via noise detection](https://www.nature.com/articles/s43588-021-00167-z) by Hammerling & Baker, __Nature Computational Science News & Views__|
