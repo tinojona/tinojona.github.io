@@ -5,8 +5,9 @@ permalink: /presentations/
 author_profile: true
 ---
 
-| 03/2022 | Klöwer et al. _Low-precision climate computing_, Princeton Plasma Physics Laboratory seminar, virtually. |
+| 05/2022 | Klöwer et al. _Nobody needed those bits anyway. What is the bitwise real information in weather and climate data?_, 7th European Network for Earth System Modelling (ENES) [workshop on high performance computing](https://portal.enes.org/community/community-workshops/7th-enes-hpc-workshop-barcelona-2022), Barcelona, Spain ([slides](https://portal.enes.org/community/community-workshops/7th-enes-workshop-presentations/01_kloewer_bitinformation.pdf), [presentation](https://www.youtube.com/channel/UC24YCohRVh1WXqzBm9tkL2g/videos)). |
 | --- | --- |
+| 03/2022 | Klöwer et al. _Low-precision climate computing_, Princeton Plasma Physics Laboratory seminar, virtually. |
 | 03/2022 | Klöwer et al. _Low-precision climate computing_, PIK Potsdam / TUM Munich Wednesday seminar, virtually. |
 | 02/2022 | Klöwer et al. _Accelerating fluid simulations with 16 bits: Approaching 4x speedups on A64FX_, SIAM Parallel Processing for Scientific Computing, virtually ([abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=116889), [slides](https://nlagrouporg.files.wordpress.com/2022/02/m.kloewer-siam-pp22-slides.pdf)). |
 | 02/2022 | Klöwer et al. _Like .mp3 or .jpg but for climate data_, NCAS Friday seminar, virtually. |
