@@ -46,6 +46,7 @@ redirect_from:
 
 ### Teaching
 
+* Tutor for Geophysical Fluid Dynamics in [MSc in Mathematical and Theoretical Physics](https://mmathphys.physics.ox.ac.uk/apply), University of Oxford, April and May 2022.
 * Guest lecturer for [MSc Sustainable Urban Development](https://www.ox.ac.uk/admissions/graduate/courses/msc-sustainable-urban-development), University of Oxford, Dec 2020 and 2021.
 * [School of Climate Change](https://www.oxfordclimatesociety.com/the-oxford-school-of-climate-change.html) coordination, Oxford Climate Society, Winter 2019 and 2020, Fall 2019.
 * Software engineering demonstrator for [Doctoral Training Centre](https://www.dtc.ox.ac.uk/), University of Oxford, 2020-2021.
