@@ -24,7 +24,7 @@ author_profile: true
 
 ### Theses
 
-|2021| PhD thesis. [*Low-precision climate computing: Preserving information despite fewer bits*](https://github.com/milankl/phdthesis/blob/main/thesis.pdf) (PhD thesis), University of Oxford, UK, 177p.|
+|2021| PhD thesis. [*Low-precision climate computing: Preserving information despite fewer bits*](https://ora.ox.ac.uk/objects/uuid:1158e44a-7faf-45a0-8ab1-73c91fd694a6) (PhD thesis), University of Oxford, UK, 177p.|
 |-|-|
 |2017| Master thesis. [*Energy budget-based backscatter in a non-linear shallow water model driven by double gyre wind forcing*](https://oceanrep.geomar.de/41368/), Christian-Albrechts-Universität zu Kiel, Kiel, Germany, 92 pp.|
 |2013|Bachelor thesis. [*Perspectives for predicting North Atlantic decadal sea surface temperature variability*](https://oceanrep.geomar.de/23208/), Christian-Albrechts-Universität zu Kiel, Kiel, Germany, 53 pp.|
