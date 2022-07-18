@@ -12,7 +12,7 @@ Content
 - [Presentations](https://github.com/milankl/milankl.github.io/edit/main/_pages/presentations.md)
 - [Media & outreach](https://github.com/milankl/milankl.github.io/blob/main/_pages/media_coverage.md)
 - [CV](https://github.com/milankl/milankl.github.io/edit/main/_pages/cv.md)
-- [Videos](https://github.com/milankl/milankl.github.io/edit/main/_pages/videos.md)
+- [Videos](https://github.com/milankl/milankl.github.io/edit/main/_pages/video.md)
 - [Files](https://github.com/milankl/milankl.github.io/tree/main/files)
 
 Layout and settings
