@@ -9,7 +9,7 @@ author_profile: true
 
 *Unfortunately, not all publications are open access. If you want to have a copy, please don't pay for it, just drop me an email and I'll send it to you personally. It's completely legal, and I am very happy to do this.*
 
-|2022| Giordano M, M Klöwer and V Churavy. *Productivity meets Performance: Julia on A64FX*, submitted.|
+|2022| Giordano M, M Klöwer and V Churavy. *Productivity meets Performance: Julia on A64FX*, EAHPC Embracing Arm for High Performance Computing Workshop 2022. [10.48550/arXiv.2207.12762](https://doi.org/10.48550/arXiv.2207.12762)|
 |-|-|
 |2022| Epp SM, H Jung, V Borghesani, M Klöwer, ME Hoeppli, M Misiura, E Thompson, NW Duncan, AE Urai, M Veldsman, S Sadaghiani and C Rae. *How can we reduce the climate costs of OHBM? A vision for a more sustainable meeting*, submitted. Preprint: [10.31219/osf.io/6zys](https://doi.org/10.31219/osf.io/6zysw)|
 |2022| Klöwer M, S Hatfield, M Croci, PD Düben and TN Palmer. *Fluid simulations accelerated with 16 bits: Approaching 4x speedup on A64FX by squeezing ShallowWaters.jl into Float16*, **Journal of Advances in Modeling Earth Systems**, 14, [10.1029/2021MS002684](https://doi.org/10.1029/2021MS002684)|
