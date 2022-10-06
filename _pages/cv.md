@@ -51,6 +51,7 @@ redirect_from:
 * [School of Climate Change](https://www.oxfordclimatesociety.com/the-oxford-school-of-climate-change.html) coordination, Oxford Climate Society, Winter 2019 and 2020, Fall 2019.
 * Software engineering demonstrator for [Doctoral Training Centre](https://www.dtc.ox.ac.uk/), University of Oxford, 2020-2021.
 * Numerical modelling demonstrator for [Doctoral Training Centre](https://www.dtc.ox.ac.uk/), University of Oxford, 2018-2020.
+* RaspberryPi weather stations at NERC DTP Induction, Wytham Woods, UK, Sep 2022.
 * RaspberryPi weather stations at NERC DTP field trip, Exmoor National Park, UK, Sep 2018.
 * Python programming at GEOMAR Kiel, Germany in Jun 2016, Jan 2017 and Jul 2017.
 
