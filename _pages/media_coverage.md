@@ -5,7 +5,7 @@ permalink: /media_coverage/
 author_profile: true
 ---
 
-|10/2022| 🖼️ Figure contribution to Tim Palmer's [The Primacy of Doubt](https://www.basicbooks.com/titles/tim-palmer/the-primacy-of-doubt/9781541619708/), Basic Books.
+|10/2022| 🖼️ Figure contribution to Tim Palmer's [The Primacy of Doubt](https://www.basicbooks.com/titles/tim-palmer/the-primacy-of-doubt/9781541619708/), Basic Books.|
 |-|-|
 |05/2022| 🔊 Speaker for [The future of (geo)scientific conferences](https://meetingorganizer.copernicus.org/EGU22/session/44545) at __European Geoscience Union__ General Assembly 2022, Vienna, Austria|
 |04/2022| 🗞️ Featured in [How much does air travel warm the planet?](https://news.mongabay.com/2022/04/how-much-does-air-travel-warm-the-planet-new-study-gives-a-figure/) by L Kimborough, __Mongabay__|
