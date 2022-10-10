@@ -5,8 +5,9 @@ permalink: /media_coverage/
 author_profile: true
 ---
 
-|05/2022| 🔊 Speaker for [The future of (geo)scientific conferences](https://meetingorganizer.copernicus.org/EGU22/session/44545) at __European Geoscience Union__ General Assembly 2022, Vienna, Austria|
+|10/2022| 🖼️ Figure contribution to Tim Palmer's [The Primacy of Doubt](https://www.basicbooks.com/titles/tim-palmer/the-primacy-of-doubt/9781541619708/), Basic Books.
 |-|-|
+|05/2022| 🔊 Speaker for [The future of (geo)scientific conferences](https://meetingorganizer.copernicus.org/EGU22/session/44545) at __European Geoscience Union__ General Assembly 2022, Vienna, Austria|
 |04/2022| 🗞️ Featured in [How much does air travel warm the planet?](https://news.mongabay.com/2022/04/how-much-does-air-travel-warm-the-planet-new-study-gives-a-figure/) by L Kimborough, __Mongabay__|
 |03/2022| 🗞️ Featured in [Oxford students protest university's fossil fuel funding](https://www.oxfordmail.co.uk/news/19977801.oxford-students-drink-crude-oil-protest-universitys-1-6-mil-fossil-fuel-funding/) by S Adie, __Oxford Mail__|
 |02/2022| 🎤 Featured in [The Oxford Flying Less podcast](https://anchor.fm/noah-birksted-breen/episodes/Why-do-we-fly--could-we-fly-less--The-Flying-Less-movement-in-the-Higher-Education-Sector-e1dbn03) by N Birksted-Breen, University of Oxford|
