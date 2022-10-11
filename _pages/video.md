@@ -5,7 +5,13 @@ permalink: /video/
 author_profile: true
 ---
 
-Relative vorticity on the sphere simulated with SpeedyWeather.jl using spherical harmonics. T682, 2048x1024 grid points (~20km horizontal resolution).
+Relative vorticity on the sphere simulated with SpeedyWeather.jl using spherical harmonics. T1023 on an octahedral Clenshaw-Curtis grid at about ~10km horizontal resolution.
+<video src="https://raw.githubusercontent.com/milankl/milankl.github.io/main/files/vorticity_clouds_T1023.mp4" controls="controls" style="max-width: 700px;">
+</video>
+
+---
+
+Relative vorticity on the sphere simulated with SpeedyWeather.jl using spherical harmonics. T682, 2048x1024 grid points (~20km horizontal resolution) on a full Gaussian grid.
 <video src="https://raw.githubusercontent.com/milankl/milankl.github.io/main/files/ortho_europe.mp4" controls="controls" style="max-width: 700px;">
 </video>
 
