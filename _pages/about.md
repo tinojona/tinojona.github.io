@@ -17,8 +17,8 @@ and spent a winter in Svalbard🐻‍❄️ studying meteorology in the Arctic w
 with the theoretical and computational work of my research has allowed me to see the bigger picture and to better
 understand the climate system as a whole. My research interests and areas of expertise include
 
-- *Climate modelling*: Atmosphere and ocean, grid-point and spectral, dynamical core development, stochastic parameterizations, turbulence closures.
-- *Computing*: High-performance, low-precision, parallel, CPU vs GPU, number formats, rounding, efficiency.
+- *Climate modelling*: Combining machine learning and dynamical models, atmosphere and ocean, grid-point and spectral, dynamical core development, stochastic parameterizations, turbulence closures.
+- *Computing*: High-performance, low-precision, parallel, CPU vs GPU, number formats, stochastic rounding, efficiency.
 - *Data compression*: Lossy and lossless, information theory, data formats.
 - *Predictability of weather and climate*: Chaos, uncertainty, ensemble prediction, error growth, weather forecasting.
 - *Software engineering*: Open source, multiple dispatch and code composability, automatic differentiation, and the Julia programming language.
