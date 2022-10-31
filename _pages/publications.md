@@ -9,9 +9,10 @@ author_profile: true
 
 *Unfortunately, not all publications are open access. If you want to have a copy, please don't pay for it, just drop me an email and I'll send it to you personally. It's completely legal, and I am very happy to do this.*
 
-|2022| Giordano M, M Klöwer and V Churavy. *Productivity meets Performance: Julia on A64FX*, EAHPC Embracing Arm for High Performance Computing Workshop 2022. [10.48550/arXiv.2207.12762](https://doi.org/10.48550/arXiv.2207.12762)|
+|2022| Klöwer, M, PV Coveney, EA Paxton and TN Palmer. *Periodic orbits in chaotic systems simulated at low precision*, submitted.|
 |-|-|
-|2022| Epp SM, H Jung, V Borghesani, M Klöwer, ME Hoeppli, M Misiura, E Thompson, NW Duncan, AE Urai, M Veldsman, S Sadaghiani and C Rae. *How can we reduce the climate costs of OHBM? A vision for a more sustainable meeting*, submitted. Preprint: [10.31219/osf.io/6zys](https://doi.org/10.31219/osf.io/6zysw)|
+|2022| Giordano M, M Klöwer and V Churavy. *Productivity meets Performance: Julia on A64FX*, M. Giordano, M. Klöwer and V. Churavy, 2022 IEEE International Conference on Cluster Computing (CLUSTER), **IEEE**, [10.1109/CLUSTER51413.2022.00072](https://ieeexplore.ieee.org/document/9912702)|
+|2022| Epp SM, H Jung, V Borghesani, M Klöwer, ME Hoeppli, M Misiura, E Thompson, NW Duncan, AE Urai, M Veldsman, S Sadaghiani and C Rae. *How can we reduce the climate costs of OHBM? A vision for a more sustainable meeting*, in review. Preprint: [10.31219/osf.io/6zys](https://doi.org/10.31219/osf.io/6zysw)|
 |2022| Klöwer M, S Hatfield, M Croci, PD Düben and TN Palmer. *Fluid simulations accelerated with 16 bits: Approaching 4x speedup on A64FX by squeezing ShallowWaters.jl into Float16*, **Journal of Advances in Modeling Earth Systems**, 14, [10.1029/2021MS002684](https://doi.org/10.1029/2021MS002684)|
 |2022| Paxton EA, M Chantry, M Klöwer, L Saffin, TN Palmer. *Climate Modelling in Low-Precision: Effects of both Deterministic & Stochastic Rounding*, **Journal of Climate**, [10.1175/JCLI-D-21-0343.1](https://doi.org/10.1175/JCLI-D-21-0343.1)|
 |2021| Klöwer M, M Razinger, JJ Dominguez, PD Düben and TN Palmer. *Compressing atmospheric data into its real information content*, **Nature Computational Science**, 1, 713-724, [10.1038/s43588-021-00156-2](https://doi.org/10.1038/s43588-021-00156-2)|
