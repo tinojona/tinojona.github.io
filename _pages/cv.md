@@ -19,6 +19,7 @@ redirect_from:
 
 ### Positions
 
+* Postdoctoral associate, Massachusetts Institute of Technology, 2022-now.
 * Post-doctoral research assistant, University of Oxford, 2021-2022.
 * Post-doctoral research assistant, University of Oxford, 2017.
 
