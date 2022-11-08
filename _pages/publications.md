@@ -9,7 +9,7 @@ author_profile: true
 
 *Unfortunately, not all publications are open access. If you want to have a copy, please don't pay for it, just drop me an email and I'll send it to you personally. It's completely legal, and I am very happy to do this.*
 
-|2022| Klöwer, M, PV Coveney, EA Paxton and TN Palmer. *Periodic orbits in chaotic systems simulated at low precision*, submitted.|
+|2022| Klöwer, M, PV Coveney, EA Paxton and TN Palmer. *Periodic orbits in chaotic systems simulated at low precision*, submitted. Preprint: [10.21203/rs.3.rs-2223046/v1](https://doi.org/10.21203/rs.3.rs-2223046/v1)|
 |-|-|
 |2022| Klöwer, M, P Edouard, AM Niess, S Racinais, Y Pitsiladis, F Pappenberger and K Hollander. *Forecasting the apparent temperature to reduce heat illnesses during sport events*, submitted.|
 |2022| Giordano M, M Klöwer and V Churavy. *Productivity meets Performance: Julia on A64FX*, 2022 IEEE International Conference on Cluster Computing (CLUSTER), **IEEE**, [10.1109/CLUSTER51413.2022.00072](https://ieeexplore.ieee.org/document/9912702)|
