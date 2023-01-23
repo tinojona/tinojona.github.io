@@ -5,7 +5,7 @@ permalink: /presentations/
 author_profile: true
 ---
 
-| 1/2023 | Klöwer et al. _Data challenges in the Earth Sciences_, JuliaEO: Global Workshop on Earth Observation with Julia, Terceira, Azores, virtually.
+| 1/2023 | Klöwer et al. _Data challenges in the Earth Sciences_, JuliaEO: Global Workshop on Earth Observation with Julia, Terceira, Azores, virtually. |
 | --- | --- |
 | 12/2022 | Klöwer and Chantry. _Imprecise not inaccurate weather forecasing_, A celebratory symposium for Tim Palmer, Oxford, UK. |
 | 10/2022 | Klöwer et al. _Data challenges for ultra-high resolution modelling_, [World Climate Research Programme WCRP workshop](https://www.mmm.ucar.edu/events/workshops/wcrp), Boulder, Colorado, USA, virtually.
