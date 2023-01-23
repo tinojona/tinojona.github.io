@@ -5,9 +5,9 @@ permalink: /presentations/
 author_profile: true
 ---
 
-| 1/2023 | Klöwer et al. _Data challenges in the Earth Sciences_, JuliaEO: Global Workshop on Earth Observation with Julia, Terceira, Azores, virtually. |
+| 01/2023 | Klöwer et al. _Data challenges in the Earth Sciences_, [JuliaEO: Global Workshop on Earth Observation with Julia](https://aircentre.github.io/JuliaEO/), Terceira, Azores, virtually ([presentation](https://github.com/AIRCentre/JuliaEO/blob/b4bac39ecdabc93e7df7ab98a2de396fcd21dd3c/notebooks/plenary_sessions/Data_science_big_data_and%20_cloud_native_solutions/kloewer_compression.pdf)). |
 | --- | --- |
-| 12/2022 | Klöwer and Chantry. _Imprecise not inaccurate weather forecasing_, A celebratory symposium for Tim Palmer, Oxford, UK. |
+| 12/2022 | Klöwer and Chantry. _Imprecise not inaccurate weather forecasing_, [A celebratory symposium for Tim Palmer](https://www.physics.ox.ac.uk/events/tim-palmer-symposium), Oxford, UK. |
 | 10/2022 | Klöwer et al. _Data challenges for ultra-high resolution modelling_, [World Climate Research Programme WCRP workshop](https://www.mmm.ucar.edu/events/workshops/wcrp), Boulder, Colorado, USA, virtually.
 | 05/2022 | Klöwer et al. _Compressing atmospheric data into its real information content_, [EGU General Assembly 2022](https://egu22.eu/), Vienna, Austria ([abstract](https://doi.org/10.5194/egusphere-egu22-3109)).
 | 05/2022 | Klöwer et al. _Fluid simulations accelerated with 16 bits: Approaching 4x speedup on A64FX by squeezing ShallowWaters.jl into Float16_, [EGU General Assembly 2022](https://egu22.eu/), Vienna, Austria ([abstract](https://doi.org/10.5194/egusphere-egu22-3095)).
