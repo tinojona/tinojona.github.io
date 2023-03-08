@@ -11,7 +11,7 @@ author_profile: true
 
 |2023| Klöwer, M, PV Coveney, EA Paxton and TN Palmer. *Periodic orbits in chaotic systems simulated at low precision*, in review. Preprint: [10.21203/rs.3.rs-2223046/v1](https://doi.org/10.21203/rs.3.rs-2223046/v1)|
 |-|-|
-|2023| Klöwer, M, P Edouard, AM Niess, S Racinais, Y Pitsiladis, F Pappenberger and K Hollander. *Forecasting feels-like temperatures to reduce heat illnesses during sport events*, accepted.|
+|2023| Klöwer, M, P Edouard, AM Niess, S Racinais, Y Pitsiladis, F Pappenberger and K Hollander. *Forecasting feels-like temperatures to reduce heat illnesses during sport events*, **British Journal of Sports Medicine**, [10.1136/bjsports-2022-106413](http://dx.doi.org/10.1136/bjsports-2022-106413).|
 |2022| Epp SM, H Jung, V Borghesani, M Klöwer, ME Hoeppli, M Misiura, E Thompson, NW Duncan, AE Urai, M Veldsman, S Sadaghiani and C Rae. *How can we reduce the climate costs of OHBM? A vision for a more sustainable meeting*, **Aperture Neuro**, accepted. Preprint: [10.31219/osf.io/6zys](https://doi.org/10.31219/osf.io/6zysw)|
 |2022| Giordano M, M Klöwer and V Churavy. *Productivity meets Performance: Julia on A64FX*, 2022 IEEE International Conference on Cluster Computing (CLUSTER), **IEEE**, [10.1109/CLUSTER51413.2022.00072](https://ieeexplore.ieee.org/document/9912702)|
 |2022| Klöwer M, S Hatfield, M Croci, PD Düben and TN Palmer. *Fluid simulations accelerated with 16 bits: Approaching 4x speedup on A64FX by squeezing ShallowWaters.jl into Float16*, **Journal of Advances in Modeling Earth Systems**, 14, [10.1029/2021MS002684](https://doi.org/10.1029/2021MS002684)|
