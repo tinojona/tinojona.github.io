@@ -64,3 +64,4 @@ redirect_from:
 * Environmental Research Letters (ERL)
 * Scientometrics
 * Journal of Open Source Software (JOSS)
+* Weather
