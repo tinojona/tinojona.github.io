@@ -47,6 +47,7 @@ redirect_from:
 
 ### Teaching
 
+* MIT freshmen orientation field trip to Mt Washington, Aug 2023.
 * Tutor for Geophysical Fluid Dynamics in [MSc in Mathematical and Theoretical Physics](https://mmathphys.physics.ox.ac.uk/apply), University of Oxford, April and May 2022.
 * Guest lecturer for [MSc Sustainable Urban Development](https://www.ox.ac.uk/admissions/graduate/courses/msc-sustainable-urban-development), University of Oxford, Dec 2020 and 2021.
 * [School of Climate Change](https://www.oxfordclimatesociety.com/the-oxford-school-of-climate-change.html) coordination, Oxford Climate Society, Winter 2019 and 2020, Fall 2019.
@@ -55,6 +56,11 @@ redirect_from:
 * RaspberryPi weather stations at NERC DTP Induction, Wytham Woods, UK, Sep 2022.
 * RaspberryPi weather stations at NERC DTP field trip, Exmoor National Park, UK, Sep 2018.
 * Python programming at GEOMAR Kiel, Germany in Jun 2016, Jan 2017 and Jul 2017.
+
+### Supervision
+
+* Ayoub Fatihi, ECMWF Code for Earth, since May 2023.
+* Ishaan Jain, Google Summer of Code, since May 2023.
 
 ### Reviewer for
 
