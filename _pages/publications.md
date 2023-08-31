@@ -9,8 +9,9 @@ author_profile: true
 
 *Unfortunately, not all publications are open access. If you want to have a copy, please don't pay for it, just drop me an email and I'll send it to you personally. It's completely legal, and I am very happy to do this.*
 
-|2023| Klöwer, M, PV Coveney, EA Paxton and TN Palmer. *Periodic orbits in chaotic systems simulated at low precision*, **Scientific reports**, [10.1038/s41598-023-37004-4](https://doi.org/10.1038/s41598-023-37004-4).|
+|2023| Hoefler, T, B Stevens, AF Prein, J Baehr, T Schulthess, TF Stocker, J Taylor, D Klocke, P Manninen, PM Forster, T Kölling, N Gruber, H Anzt, C Frauen, F Ziemen, M Klöwer, K Kashinath, C Schär, O Fuhrer, BN Lawrence. *Earth Virtualization Egnines - A technical perspective*, **Computing in Science & Engineering**, accepted, [10.1109/MCSE.2023.3311148](https://doi.org/10.1109/MCSE.2023.3311148).|
 |-|-|
+|2023| Klöwer, M, PV Coveney, EA Paxton and TN Palmer. *Periodic orbits in chaotic systems simulated at low precision*, **Scientific reports**, [10.1038/s41598-023-37004-4](https://doi.org/10.1038/s41598-023-37004-4).|
 |2023| Klöwer, M, P Edouard, AM Niess, S Racinais, Y Pitsiladis, F Pappenberger and K Hollander. *Forecasting feels-like temperatures to reduce heat illnesses during sport events*, **British Journal of Sports Medicine**, [10.1136/bjsports-2022-106413](http://dx.doi.org/10.1136/bjsports-2022-106413).|
 |2022| Epp SM, H Jung, V Borghesani, M Klöwer, ME Hoeppli, M Misiura, E Thompson, NW Duncan, AE Urai, M Veldsman, S Sadaghiani and C Rae. *How can we reduce the climate costs of OHBM? A vision for a more sustainable meeting*, **Aperture Neuro**, accepted. Preprint: [10.31219/osf.io/6zys](https://doi.org/10.31219/osf.io/6zysw)|
 |2022| Giordano M, M Klöwer and V Churavy. *Productivity meets Performance: Julia on A64FX*, 2022 IEEE International Conference on Cluster Computing (CLUSTER), **IEEE**, [10.1109/CLUSTER51413.2022.00072](https://ieeexplore.ieee.org/document/9912702)|
