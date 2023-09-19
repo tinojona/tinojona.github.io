@@ -39,8 +39,9 @@ redirect_from:
 * [Meteor M130](https://www.geomar.de/en/research/expeditions/detail-view/exp/339851). Tropical Atlantic from Mindelo, Cabo Verde to Recife, Brazil, Aug-Oct 2016.
 * [Physics of the Ocean](https://www.dpg-physik.de/veranstaltungen/2017/we-heraeus-summer-school-physics-of-the-ocean?set_language=en), Bad Honnef, Germany, Jul 2017.
 
-### Committee and conference organisation
+### Conference organisation
 
+* Chair _Phoenix or Cyborg: The anatomy of Earth System software in Julia_, JuliaCon 2023 minisymposium, Cambridge MA, USA ([video](https://www.youtube.com/watch?v=x9d6WtePul0&t=6475s)).
 * Education and Skills coordinator, [Oxford Climate Society](https://www.oxfordclimatesociety.com/), 2019-2020.
 * Grand Challenges Seminar on Anthropocene and the Post-Truth World, Jesus College Oxford, May 2018.
 * [Stumeta](https://www.stumeta.de/2016/), conference for meteorology students, Kiel, Germany, 4-8 May 2016.
@@ -57,8 +58,9 @@ redirect_from:
 * RaspberryPi weather stations at NERC DTP field trip, Exmoor National Park, UK, Sep 2018.
 * Python programming at GEOMAR Kiel, Germany in Jun 2016, Jan 2017 and Jul 2017.
 
-### Supervision
+### Mentoring and thesis committee
 
+* Juniper Tyree, University of Helsinki, since Sep 2023.
 * Ayoub Fatihi, ECMWF Code for Earth, since May 2023.
 * Ishaan Jain, Google Summer of Code, since May 2023.
 
