@@ -5,8 +5,6 @@ permalink: /presentations/
 author_profile: true
 ---
 
-_Invited talks are marked with (i)_
-
 | 07/2023 | Klöwer et al. _Phoenix or Cyborg: The anatomy of Earth System software in Julia_, [JuliaCon 2023 minisymposium](https://pretalx.com/juliacon2023/talk/review/VVZXZKQ9SFYQERL7AZVEQ9L7JWFGLGJ3), Chair, Cambridge MA, USA ([video](https://www.youtube.com/watch?v=x9d6WtePul0&t=6475s)). |
 | --- | --- |
 | 07/2023 | Klöwer et al. _SpeedyWeather.jl: Easy, fast, customisable, composable?_, [JuliaCon 2023](https://juliacon.org/2023/), Cambridge MA, USA ([video](https://www.youtube.com/live/x9d6WtePul0?t=9336)). |
