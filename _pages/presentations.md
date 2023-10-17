@@ -5,8 +5,9 @@ permalink: /presentations/
 author_profile: true
 ---
 
-| 07/2023 | Klöwer et al. _Phoenix or Cyborg: The anatomy of Earth System software in Julia_, [JuliaCon 2023 minisymposium](https://pretalx.com/juliacon2023/talk/review/VVZXZKQ9SFYQERL7AZVEQ9L7JWFGLGJ3), Chair, Cambridge MA, USA ([video](https://www.youtube.com/watch?v=x9d6WtePul0&t=6475s)). |
+| 10/2023 (_invited_) | Klöwer et al. _Why is climate modelling so hard?_, CRIOS Seminar, University of Texas, Austin TX, USA. |
 | --- | --- |
+| 07/2023 | Klöwer et al. _Phoenix or Cyborg: The anatomy of Earth System software in Julia_, [JuliaCon 2023 minisymposium](https://pretalx.com/juliacon2023/talk/review/VVZXZKQ9SFYQERL7AZVEQ9L7JWFGLGJ3), Chair, Cambridge MA, USA ([video](https://www.youtube.com/watch?v=x9d6WtePul0&t=6475s)). |
 | 07/2023 | Klöwer et al. _SpeedyWeather.jl: Easy, fast, customisable, composable?_, [JuliaCon 2023](https://juliacon.org/2023/), Cambridge MA, USA ([video](https://www.youtube.com/live/x9d6WtePul0?t=9336)). |
 | 07/2023 (_invited_) | Klöwer et al. _The real information in weather and climate data_, Unifying Innovations in Forecasting Capabilities Workshop [UIFCW](https://epic.noaa.gov/eventsposts/uifcw-2023/), Boulder CO, USA, virtually. |
 | 06/2023 (_invited_) | Klöwer et al. _How do we build climate models?_, [AWI Climate Dynamics group](https://www.awi.de/en/science/climate-sciences/climate-dynamics/team.html), annual retreat, virtually. |
