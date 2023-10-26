@@ -8,7 +8,7 @@ author_profile: true
 |8/2023| 🏫 [Climate Fresk](https://climatefresk.org/) facilitator at the [Boston Green Academy](https://www.bostongreenacademy.org/) public middle and high school  |
 |-|-|
 |3/2023| 🗞️ Featured in [Aviation chiefs rejected measures to curb climate impact of jet vapours](https://www.theguardian.com/science/2023/mar/18/aviation-chiefs-rejected-measures-to-curb-climate-impact-of-jet-vapours) by B Webster, __The Guardian__ |
-|11/2022| 🔊 Speaker for [Implementing net-zero aviation by 2050](https://app.swapcard.com/event/eu-side-events-cop27/planning/UGxhbm5pbmdfMTA1MjgyOA==) at __EU Pavilion COP27__, online and Sharm El-Sheikh, Egypt |
+|11/2022| 🔊 Speaker for [Implementing net-zero aviation by 2050](https://www.youtube.com/watch?v=juPB9B2sCV4) at __EU Pavilion COP27__, online and Sharm El-Sheikh, Egypt |
 |10/2022| 🖼️ Figure contribution to Tim Palmer's [The Primacy of Doubt](https://www.basicbooks.com/titles/tim-palmer/the-primacy-of-doubt/9781541619708/), Basic Books|
 |09/2022| 🎤 Featured in Flight Free UK Podcast: [Education, academia and air travel](https://flightfreeuk.podbean.com/e/2022-series-education-academia-and-air-travel/)|
 |05/2022| 🔊 Speaker for [The future of (geo)scientific conferences](https://meetingorganizer.copernicus.org/EGU22/session/44545) at __European Geoscience Union__ General Assembly 2022, Vienna, Austria|
