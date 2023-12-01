@@ -9,7 +9,7 @@ author_profile: true
 
 *Unfortunately, not all publications are open access. If you want to have a copy, please don't pay for it, just drop me an email and I'll send it to you personally. It's completely legal, and I am very happy to do this.*
 
-|2024| Klöwer, M, M Gelbrecht, D Hotta, J Willmert, S Silvestri, GL Wagner, A White, S Hatfield, D Meyer, T Kimpson, NC Constantinou, C Hill. *SpeedyWeather.jl: Reinventing atmospheric general circulation models towards interactivity and extensibilityy*, in preparation, [draft](https://github.com/SpeedyWeather/SpeedyWeather.jl/blob/mk/josspaper/docs/joss/paper.pdf)| 
+|2024| Klöwer, M, M Gelbrecht, D Hotta, J Willmert, S Silvestri, GL Wagner, A White, S Hatfield, T Kimpson, NC Constantinou, C Hill. *SpeedyWeather.jl: Reinventing atmospheric general circulation models towards interactivity and extensibilityy*, submitted, [preprint](https://github.com/SpeedyWeather/SpeedyWeather.jl/blob/mk/josspaper/docs/joss/paper.pdf).| 
 |-|-|
 |2024| Kochkov, D, J Yuval, I Langmore, P Norgaard, J Smith, G Mooers, J Lottes, S Rasp, P Düben, M Klöwer, S Hatfield, P Battaglia, A Sanchez-Gonzalez, M Willson, MP Brenner, S Hoyer. *Neural general circulation models*, submitted, [arXiv:2311.07222](https://arxiv.org/abs/2311.07222)| 
 |2024| Klöwer, M, and K Hollander. *Gesundheitsrisiko Klimawandel: Hitzeerkrankungen und gefühlte Temperaturen in der Leichtathletik* (book chapter, in German, "Health risk climate change:  Heat illnesses and feels-like temperatures in athletics"), Ed. Sven Schneider, **Hogrefe**, in print|
