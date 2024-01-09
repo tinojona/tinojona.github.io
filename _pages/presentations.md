@@ -5,8 +5,9 @@ permalink: /presentations/
 author_profile: true
 ---
 
-| 12/2023 (_invited_) | Klöwer et al. _The real information in climate simulations_, [Cambridge Energy and Environment Group Seminar](https://www.cst.cam.ac.uk/research/eeg), University of Cambridge, UK [video](https://www.youtube.com/watch?v=C4SBI8pwetY). |
+| 01/2024 (_invited_) | Klöwer. _Introduction to Performance and Parallel Computing in Julia_, [JuliaEO 2024: Global Workshop on Earth Observation with Julia](https://aircentre.github.io/JuliaEO24/), AIR Centre, Terceira, Azores Islands, [notebook presentation](https://github.com/AIRCentre/JuliaEO24/blob/main/notebooks/performance_parallel.ipynb). |
 | --- | --- |
+| 12/2023 (_invited_) | Klöwer et al. _The real information in climate simulations_, [Cambridge Energy and Environment Group Seminar](https://www.cst.cam.ac.uk/research/eeg), University of Cambridge, UK [video](https://www.youtube.com/watch?v=C4SBI8pwetY). |
 | 10/2023 (_invited_) | Klöwer et al. _Why is climate modelling so hard?_, CRIOS Seminar, University of Texas, Austin TX, USA. |
 | 07/2023 | Klöwer et al. _Phoenix or Cyborg: The anatomy of Earth System software in Julia_, [JuliaCon 2023 minisymposium](https://pretalx.com/juliacon2023/talk/review/VVZXZKQ9SFYQERL7AZVEQ9L7JWFGLGJ3), Chair, Cambridge MA, USA ([video](https://www.youtube.com/watch?v=x9d6WtePul0&t=6475s)). |
 | 07/2023 | Klöwer et al. _SpeedyWeather.jl: Easy, fast, customisable, composable?_, [JuliaCon 2023](https://juliacon.org/2023/), Cambridge MA, USA ([video](https://www.youtube.com/live/x9d6WtePul0?t=9336)). |
