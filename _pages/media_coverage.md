@@ -5,11 +5,11 @@ permalink: /media_coverage/
 author_profile: true
 ---
 
-|2/2024| 🗞️ Featured in [It Looks a Lot Like Taylor Swift Had Two Private Jets for Her Super Bowl Flight](https://gizmodo.com/taylor-swift-second-plane-super-bowl-travis-kelce-1851246235) by J Serrano, __Gizmodo__|
+|02/2024| 🗞️ Featured in [It Looks a Lot Like Taylor Swift Had Two Private Jets for Her Super Bowl Flight](https://gizmodo.com/taylor-swift-second-plane-super-bowl-travis-kelce-1851246235) by J Serrano, __Gizmodo__|
 |-|-|
 |11/2023| 🗞️ Featured in [Heads of State Fly to SFO for APEC, But at What Cost to the Environment?](https://www.kqed.org/science/1985281/heads-of-state-fly-to-sfo-for-apec-but-at-what-cost-to-the-environment) by S Johnson, __KQED__|
-|8/2023| 🏫 [Climate Fresk](https://climatefresk.org/) facilitator at the [Boston Green Academy](https://www.bostongreenacademy.org/) public middle and high school|
-|3/2023| 🗞️ Featured in [Aviation chiefs rejected measures to curb climate impact of jet vapours](https://www.theguardian.com/science/2023/mar/18/aviation-chiefs-rejected-measures-to-curb-climate-impact-of-jet-vapours) by B Webster, __The Guardian__ |
+|08/2023| 🏫 [Climate Fresk](https://climatefresk.org/) facilitator at the [Boston Green Academy](https://www.bostongreenacademy.org/) public middle and high school|
+|03/2023| 🗞️ Featured in [Aviation chiefs rejected measures to curb climate impact of jet vapours](https://www.theguardian.com/science/2023/mar/18/aviation-chiefs-rejected-measures-to-curb-climate-impact-of-jet-vapours) by B Webster, __The Guardian__ |
 |11/2022| 🔊 Speaker for [Implementing net-zero aviation by 2050](https://www.youtube.com/watch?v=juPB9B2sCV4) at __EU Pavilion COP27__, online and Sharm El-Sheikh, Egypt|
 |10/2022| 🖼️ Figure contribution to Tim Palmer's [The Primacy of Doubt](https://www.basicbooks.com/titles/tim-palmer/the-primacy-of-doubt/9781541619708/), Basic Books|
 |09/2022| 🎤 Featured in Flight Free UK Podcast: [Education, academia and air travel](https://flightfreeuk.podbean.com/e/2022-series-education-academia-and-air-travel/)|
