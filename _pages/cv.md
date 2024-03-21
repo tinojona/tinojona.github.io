@@ -19,6 +19,7 @@ redirect_from:
 
 ### Positions
 
+* Schmidt AI in Science Postdoctoral Fellow, University of Oxford, 2024-2025 (incoming).
 * Postdoctoral associate, Massachusetts Institute of Technology, 2022-now.
 * Post-doctoral research assistant, University of Oxford, 2021-2022.
 * Post-doctoral research assistant, University of Oxford, 2017.
@@ -61,8 +62,8 @@ redirect_from:
 ### Mentoring and thesis committee
 
 * Juniper Tyree, University of Helsinki, since Sep 2023.
-* Ayoub Fatihi, ECMWF Code for Earth, since May 2023.
-* Ishaan Jain, Google Summer of Code, since May 2023.
+* Ayoub Fatihi, ECMWF Code for Earth, May-Sept 2023.
+* Ishaan Jain, Google Summer of Code, May-Oct 2023.
 
 ### Reviewer for
 
