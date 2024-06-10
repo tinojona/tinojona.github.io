@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+### Positions
+
+* Schmidt AI in Science Postdoctoral Fellow, University of Oxford, 2024-present.
+* Postdoctoral associate, Massachusetts Institute of Technology, 2022-2024.
+* Post-doctoral research assistant, University of Oxford, 2021-2022.
+* Post-doctoral research assistant, University of Oxford, 2017.
+
 ### Education
 
 * PhD Climate Computing, University of Oxford, 2017-2021.
@@ -16,13 +23,6 @@ redirect_from:
 * MSc Course on the Arctic Atmospheric Boundary Layer, University Centre in Svalbard, 2016.
 * Marine Physics, University of Western Brittany, France, 2013-14 (year 1 of MSc).
 * BSc Physics of the Earth System, University of Kiel, Germany, 2010-13.
-
-### Positions
-
-* Schmidt AI in Science Postdoctoral Fellow, University of Oxford, 2024-2025 (incoming).
-* Postdoctoral associate, Massachusetts Institute of Technology, 2022-now.
-* Post-doctoral research assistant, University of Oxford, 2021-2022.
-* Post-doctoral research assistant, University of Oxford, 2017.
 
 ### Research visits
 
@@ -59,15 +59,20 @@ redirect_from:
 * RaspberryPi weather stations at NERC DTP field trip, Exmoor National Park, UK, Sep 2018.
 * Python programming at GEOMAR Kiel, Germany in Jun 2016, Jan 2017 and Jul 2017.
 
+### Students
+
+* Juniper Tyree (PhD candidate), University of Helsinki, since May 2024.
+
 ### Mentoring and thesis committee
 
-* Juniper Tyree, University of Helsinki, since Sep 2023.
+* Juniper Tyree, University of Helsinki, Sep 2023 - May 2024.
 * Ayoub Fatihi, ECMWF Code for Earth, May-Sept 2023.
 * Ishaan Jain, Google Summer of Code, May-Oct 2023.
 
 ### Reviewer for
 
 * Nature Climate Change
+* Nature Machine Intelligence
 * Journal for Advances in Modeling Earth Systems (JAMES)
 * Geoscientific Model Development (GMD)
 * Environmental Research Letters (ERL)
