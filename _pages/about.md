@@ -10,8 +10,9 @@ redirect_from:
 
 Hi there. I'm Milan.
 
-I'm a climate scientist working at the Massachusetts Institute of Technology. I completed a PhD in climate computing at the University
-of Oxford. Before I even started my PhD, I had a very comprehensive education in climate physics from different universities in
+I'm a climate scientist at the University of Oxford where I am a Schmidt AI in Science Fellow. I did my Postdoc at the Massachusetts Institute of Technology
+after completing a PhD in climate computing at the University of Oxford. 
+Before I even started my PhD, I had a very comprehensive education in climate physics from different universities in
 Germany, France, and Norway. During that time, I crossed the Tropical Atlantic on an oceanographic research vessel
 and spent a winter in Svalbard studying Arctic meteorology. The combination of fieldwork with the theoretical and computational
 work of my research has allowed me to see the bigger picture and to better understand the climate system as a whole.
