@@ -5,8 +5,9 @@ permalink: /presentations/
 author_profile: true
 ---
 
-| 02/2024 (_invited_) | Klöwer et al. _Building climate models that learn from data_, [Climate Analytics](https://climateanalytics.org/) Berlin, Germany, virtually. |
+| 07/2024 | Klöwer et al. _SpeedyWeather.jl: Reinventing atmospheric models towards interactivity and extensibility_, [JuliaCon 2024](https://juliacon.org/2024/), Eindhoven, NL, [video](https://www.youtube.com/live/IgFF9JNU9cM?feature=shared&t=21897). |
 | --- | --- |
+| 02/2024 (_invited_) | Klöwer et al. _Building climate models that learn from data_, [Climate Analytics](https://climateanalytics.org/) Berlin, Germany, virtually. |
 | 01/2024 (_invited_) | Klöwer. _Introduction to Performance and Parallel Computing in Julia_, [JuliaEO 2024: Global Workshop on Earth Observation with Julia](https://aircentre.github.io/JuliaEO24/), AIR Centre, Terceira, Azores Islands, [notebook presentation](https://github.com/AIRCentre/JuliaEO24/blob/main/notebooks/performance_parallel.ipynb). |
 | 12/2023 (_invited_) | Klöwer et al. _The real information in climate simulations_, [Cambridge Energy and Environment Group Seminar](https://www.cst.cam.ac.uk/research/eeg), University of Cambridge, UK [video](https://www.youtube.com/watch?v=C4SBI8pwetY). |
 | 10/2023 (_invited_) | Klöwer et al. _Why is climate modelling so hard?_, CRIOS Seminar, University of Texas, Austin TX, USA. |
