@@ -42,6 +42,7 @@ redirect_from:
 
 ### Conference organisation
 
+* Chair _Earth and climate science in Julia: Power to the user_, JuliaCon 2024 minisymposium, Eindhoven, NL ([video](https://www.youtube.com/live/IgFF9JNU9cM?feature=shared&t=19677)).
 * Chair _Phoenix or Cyborg: The anatomy of Earth System software in Julia_, JuliaCon 2023 minisymposium, Cambridge MA, USA ([video](https://www.youtube.com/watch?v=x9d6WtePul0&t=6475s)).
 * Education and Skills coordinator, [Oxford Climate Society](https://www.oxfordclimatesociety.com/), 2019-2020.
 * Grand Challenges Seminar on Anthropocene and the Post-Truth World, Jesus College Oxford, May 2018.
