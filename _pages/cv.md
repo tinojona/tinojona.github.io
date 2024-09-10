@@ -11,6 +11,7 @@ redirect_from:
 
 ### Positions
 
+* NERC Independent Research Fellow, University of Oxford, from 2025 (incoming).
 * Schmidt AI in Science Postdoctoral Fellow, University of Oxford, 2024-present.
 * Postdoctoral associate, Massachusetts Institute of Technology, 2022-2024.
 * Post-doctoral research assistant, University of Oxford, 2021-2022.
