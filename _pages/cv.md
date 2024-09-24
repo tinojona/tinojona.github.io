@@ -27,6 +27,7 @@ redirect_from:
 
 ### Research visits
 
+* University College London, UK, 2024-present.
 * University of Oxford, UK, 2015.
 * Alfred-Wegener-Institute (AWI), Bremerhaven, Germany, 2012 and 2013.
 
@@ -63,7 +64,7 @@ redirect_from:
 
 ### Students
 
-* Juniper Tyree (PhD candidate), University of Helsinki, since May 2024.
+* Juniper Tyree (PhD candidate), University of Helsinki, May 2024-present.
 
 ### Mentoring and thesis committee
 
