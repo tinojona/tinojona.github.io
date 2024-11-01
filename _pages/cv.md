@@ -52,6 +52,7 @@ redirect_from:
 
 ### Teaching
 
+* RaspberryPi weather stations at NERC DTP Induction, Wytham Woods, UK, Sep 2024.
 * MIT freshmen orientation field trip to Mt Washington, Aug 2023.
 * Tutor for Geophysical Fluid Dynamics in [MSc in Mathematical and Theoretical Physics](https://mmathphys.physics.ox.ac.uk/apply), University of Oxford, April and May 2022.
 * Guest lecturer for [MSc Sustainable Urban Development](https://www.ox.ac.uk/admissions/graduate/courses/msc-sustainable-urban-development), University of Oxford, Dec 2020 and 2021.
@@ -65,9 +66,11 @@ redirect_from:
 ### Students
 
 * Juniper Tyree (PhD candidate), University of Helsinki, May 2024-present.
+* Minqi Xia (Master thesis), University of Oxford, Oct 2024-present.
 
 ### Mentoring and thesis committee
 
+* College advisor, Reuben College, Oct 2024-present.
 * Juniper Tyree, University of Helsinki, Sep 2023 - May 2024.
 * Ayoub Fatihi, ECMWF Code for Earth, May-Sept 2023.
 * Ishaan Jain, Google Summer of Code, May-Oct 2023.
