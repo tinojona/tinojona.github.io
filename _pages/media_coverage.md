@@ -47,6 +47,10 @@ author_profile: true
 
 <table>
   <tr>
+    <td><div class="altmetric-embed" data-badge-type="2" data-altmetric-id="156438506"></div></td>
+    <td>Kochkov, ... Klöwer, et al., 2024, Nature.</td>
+  </tr>
+  <tr>
     <td><div class="altmetric-embed" data-badge-type="2" data-altmetric-id="121706714"></div></td>
     <td>Klöwer et al., 2022, Journal of Advances in Modeling Earth Systems.</td>
   </tr>
