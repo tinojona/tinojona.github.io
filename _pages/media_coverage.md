@@ -5,8 +5,9 @@ permalink: /media_coverage/
 author_profile: true
 ---
 
-|08/2024| 📡 [Daily heat forecasts for the Paris 2024 Olympics and Paralympics](https://heatforecast.github.io) in collaboration with [ECMWF](https://ecmwf.int) and the Medical School Hamburg|
+|11/2024| 🗞️ Featured in [Emissions from private jets are soaring](https://doi.org/10.1038/d41586-024-03687-6) by H Kudiabor, __Nature News__ |
 |-|-|
+|08/2024| 📡 [Daily heat forecasts for the Paris 2024 Olympics and Paralympics](https://heatforecast.github.io) in collaboration with [ECMWF](https://ecmwf.int) and the Medical School Hamburg|
 |02/2024| 🗞️ Featured in [It Looks a Lot Like Taylor Swift Had Two Private Jets for Her Super Bowl Flight](https://gizmodo.com/taylor-swift-second-plane-super-bowl-travis-kelce-1851246235) by J Serrano, __Gizmodo__|
 |11/2023| 🗞️ Featured in [Heads of State Fly to SFO for APEC, But at What Cost to the Environment?](https://www.kqed.org/science/1985281/heads-of-state-fly-to-sfo-for-apec-but-at-what-cost-to-the-environment) by S Johnson, __KQED__|
 |08/2023| 🏫 [Climate Fresk](https://climatefresk.org/) facilitator at the [Boston Green Academy](https://www.bostongreenacademy.org/) public middle and high school|
