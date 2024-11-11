@@ -1,4 +1,4 @@
-# main links links
+# main links
 main:
   - title: "About"
     url: /about/
@@ -7,7 +7,10 @@ main:
     url: /publications/
 
   - title: "Presentations"
-    url: /presentations/    
+    url: /presentations/
+
+  - title: "Projects"
+    url: /projects/
 
   - title: "Media and outreach"
     url: /media_coverage/    
