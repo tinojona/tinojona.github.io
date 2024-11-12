@@ -10,7 +10,7 @@ redirect_from:
 
 Hi there. I'm Milan. A climate scientist.
 
-I’m a Schmidt AI in Science Fellow at the University of Oxford working on combining climate modelling and machine learning.
+I’m a Schmidt AI in Science Fellow at the University of Oxford working on integrating machine learning  climate modelling and machine learning.
 During my PostDoc at the Massachusetts Institute of Technology I started developing [SpeedyWeather.jl](https://github.com/SpeedyWeather/SpeedyWeather.jl),
 a modern intermediate-complexity atmospheric model written in [Julia](https://julialang.org/).
 With this model I'm on a mission to
@@ -29,8 +29,7 @@ That's why I am an active Julia developer, see [my GitHub profile](https://githu
 My research interests cover large various aspects between climate physics, modelling, computer science and software engineering, see below.
 
 I hold a PhD from Oxford in climate computing with Tim Palmer after a very comprehensive education in climate physics from different universities in Germany, France, and Norway.
-During that time, I crossed the Tropical Atlantic on an oceanographic research vessel and spent a winter in Svalbard studying meteorology in the Arctic with weather stations.
-The combination of fieldwork with the theoretical and computational work of my research has allowed me to see the bigger picture and to better understand the climate system as a whole.
+During that time, I crossed the Tropical Atlantic on an oceanographic research vessel and spent a winter in Svalbard.
 
 - *Climate modelling*: Combining machine learning and dynamical models, atmosphere and ocean, grid-point and spectral, dynamical core development, stochastic parameterizations, turbulence closures.
 - *Computing*: High-performance, low-precision, parallel, CPU vs GPU, number formats, stochastic rounding, efficiency.
@@ -41,7 +40,7 @@ The combination of fieldwork with the theoretical and computational work of my r
 - *Aviation and decarbonisation*: Global warming impact, non-CO2 effects, emission scenarios, carbon footprints.
 
 As a climate scientist, I feel responsible to voice urgency and hope on the climate catastrophe,
-both through media and in teaching. While my main research develops computationally efficient climate models,
+both through media and in teaching. While my main research develops climate models,
 I see great potential in interdisciplinary work to tackle other urgent problems
 to sustain the health of our planet.
 
