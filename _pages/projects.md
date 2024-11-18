@@ -47,7 +47,7 @@ Posted here [https://www.physics.ox.ac.uk/study/postgraduates/dphil-atmospheric-
 
 ## Downscaling and bias correction with online machine learning
 
-_this is a draft project, to be updated with more details_
+_this is a draft of a project description, to be updated with more details_
 
 We know climate models aren’t right and instead of correcting them by hand one could also correct things automatically on the fly.
 For example precipitation: Given a simulated precipitation field after a time step inside the model one could bias correct / downscale them
@@ -64,7 +64,7 @@ online means you get a better model without losing the meaningful components tha
 
 ## Machine learning in atmospheric models with generalization in space and time
 
-_this is a draft project, to be updated with more details_
+_this is a draft of a project description, to be updated with more details_
 
 If you were to take Graphcast and push the world outside of its climate distribution (think global warming) the models likely produce garbage
 because in their latent space they have a hardcoded representation of, say, surface temperatures in the tropics being warmer than in mid-latitudes.
