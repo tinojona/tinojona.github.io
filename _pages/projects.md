@@ -9,7 +9,7 @@ A list of projects that I can envisage for Master and/or PhD projects.
 This list is not complete but should give prospective students an idea about
 possible projects. Do reach out with your own ideas too!
 
-### Differentiable atmospheric modelling: Learning from data between Earth’s and exoplanetary climates
+## Differentiable atmospheric modelling: Learning from data between Earth’s and exoplanetary climates
 
 _supervised together with [Tad Komacek](https://www.physics.ox.ac.uk/our-people/komacek) (Oxford)_
 
@@ -45,7 +45,7 @@ required, but experience with another programming language like Python, Matlab, 
 
 Posted here [https://www.physics.ox.ac.uk/study/postgraduates/dphil-atmospheric-oceanic-and-planetary-physics/climate-physics](https://www.physics.ox.ac.uk/study/postgraduates/dphil-atmospheric-oceanic-and-planetary-physics/climate-physics)
 
-### Downscaling and bias correction with online machine learning
+## Downscaling and bias correction with online machine learning
 
 _this is a draft project, to be updated with more details_
 
@@ -62,7 +62,7 @@ version, which, inside the model would then affect e.g. surface fluxes, so that 
 actually pull out more heat from the ocean. A lot of ML papers till now work on post-processing model outputs (=offline), but doing things
 online means you get a better model without losing the meaningful components that general circulation models have.
 
-### Machine learning in atmospheric models with generalization in space and time
+## Machine learning in atmospheric models with generalization in space and time
 
 _this is a draft project, to be updated with more details_
 
