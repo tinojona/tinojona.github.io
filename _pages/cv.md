@@ -52,6 +52,8 @@ redirect_from:
 
 ### Teaching
 
+* The [RainMaker](https://github.com/SpeedyWeather/RainMaker.jl) challenge: Atmospheric modelling tutorial. Intelligent Earth CDT, Oxford, UK, Nov 2024.
+* General circulation models, lecture for Intelligent Earth CDT, Oxford, UK, Nov 2024.
 * RaspberryPi weather stations at NERC DTP Induction, Wytham Woods, UK, Sep 2024.
 * MIT freshmen orientation field trip to Mt Washington, Aug 2023.
 * Tutor for Geophysical Fluid Dynamics in [MSc in Mathematical and Theoretical Physics](https://mmathphys.physics.ox.ac.uk/apply), University of Oxford, April and May 2022.
