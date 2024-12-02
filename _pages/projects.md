@@ -84,3 +84,22 @@ we actually do not know how the oceans will warm exactly. For that reason Speedy
 NeuralGCM has learned all physics, so you can technically infer again that is has learned daytime heating, but there’s no way to disentangle the
 different processes as they are all handled by the same neural network. This whole approach would be so that a model can be corrected with
 machine learning without losing the physical model’s ability to generalise in time, meaning that you get a realistic future climate if you ramp up CO2.
+
+## Learning the ocean for seasonal forecasts
+
+_this is a draft of a project description, to be updated with more details_
+
+For sub-seasonal to seasonal forecasts, having an active ocean is important because of the memory the ocean provides,
+essentially integrating the atmospheric state over the past. Atmospheric heat waves can warm up the surface ocean
+increasing surface latent and sensible heat fluxes at a later time. Or a storm can cool down the surface ocean 
+due to the enhanced heat fluxes out of the ocean lowering the surface boundary conditions for the atmosphere
+in weeks or even months to come. None of the current machine-learned weather prediction models have an active ocean,
+and so it might be even a cool project to learn an active ocean based on ML, coupled to an atmospheric model like SpeedyWeather.
+A slab ocean is easy to define, and as a starting point could be calibrated towards surface temperature observations.
+The next step would be to see whether one could include a mean surface circulation of the ocean, for example defined through
+transport matrices. Such a circulation could be taken from data, but also learned from observations of sea surface temperature.
+While such an ocean circulation would still be passive (not responding to the atmosphere), temperature anomalies from the
+slab ocean could still be moved around following some idealised circulation. Interesting here would be how much
+one can idealise the surface ocean circulation for a good seasonal forecast. A next step could be to update the transport matrices
+given past surface fluxes of heat and momentum. Alternatively, or in combination, such an approach could be compared
+to coupling SpeedyWeather with Oceananigans, a fully dynamic ocean general circulation model.
