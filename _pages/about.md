@@ -21,7 +21,7 @@ My Schmidt AI in Science Fellowship aims to do that for precipitation in an onli
 I am also an incoming NERC Independent Research Fellow at Oxford Physics/AOPP to be started in summer 2025.
 This means I can supervise Master and PhD (DPhil in Oxford slang) students now, particularly in the PhD programmes
 [Intelligent Earth CDT](https://intelligent-earth.ox.ac.uk/home)
-and the [Environmental Research DTP](https://www.environmental-research.ox.ac.uk/).
+and [ILESLA](https://www.ilesla.ox.ac.uk/) (previously [Environmental Research DTP](https://www.environmental-research.ox.ac.uk/)).
 If you are interested in pursuing a PhD and would love to work on and learn about atmospheric modelling in combination with machine learning please reach out.
 Especially if you are not keen to drown in dusty Fortran code — not my passion either.
 I am always fire to bring brandnew concepts of software engineering and computer science into climate research.
