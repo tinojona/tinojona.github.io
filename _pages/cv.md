@@ -27,6 +27,7 @@ redirect_from:
 
 ### Research visits
 
+* Massachusetts Institute of Technology, USA, 2025.
 * University College London, UK, 2024-present.
 * University of Oxford, UK, 2015.
 * Alfred-Wegener-Institute (AWI), Bremerhaven, Germany, 2012 and 2013.
