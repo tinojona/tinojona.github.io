@@ -17,7 +17,7 @@ redirect_from:
 * Certificate in Sustainability, University of Bayreuth, Germany, 2022-2023.
 
 
-## Summer/winter schools
+### Summer/winter schools
 
 * Modern time series methods for public health and epidemiology, [European Educational Programme in Epidemiology](https://www.eepe.org/), Florence, Italy, Jul 2025.
 
