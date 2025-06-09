@@ -8,6 +8,13 @@ author_profile: true
 An list of projects that I worked on. Reach out if you want to collaborate!
 
 
+Relative vorticity on the sphere simulated with SpeedyWeather.jl using spherical harmonics. T1023 on an octahedral Clenshaw-Curtis grid at about ~10km horizontal resolution.
+<video src="https://raw.githubusercontent.com/milankl/milankl.github.io/main/files/vorticity_clouds_T1023.mp4" controls="controls" style="max-width: 700px;">
+</video>
+
+
+
+
 
 ## Differentiable atmospheric modelling: Learning from data between Earth’s and exoplanetary climates
 
