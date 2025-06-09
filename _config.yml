@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "milankl.github.io"
+title                    : "tinojona.github.io"
 title_separator          : "-"
-name                     : &name "Milan Klöwer"
-description              : &description "PhD MSc, Climate Scientist"
-url                      : "https://milankl.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Tino Schneidewind"
+description              : &description "Climate Scientist"
+url                      : "https://tinojona.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "milankl/milankl.github.io"
+repository               : "tinojona/tinojona.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -79,18 +79,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Milan Klöwer"
-  avatar           : "me2022.jpg"
-  bio              : "Schmidt AI in Science Fellow at Oxford. Postdoc at MIT, PhD from Oxford."
-  bio1             : "Previously: GEOMAR Kiel, UNIS Svalbard, IUEM Brest, AWI Bremerhaven."
-  bio2             : "Climate computing, model development, information theory, predictability, climate change, aviation."
-  bio3             : "#JuliaLang open-source developer, vegan, low CO₂, bicycles and mountains, no borders, free education."
-  bio4             : "*354ppm. he|him"
-  location         : "Oxford"
+  name             : "Tino Schneidewind"
+  avatar           : "me_Aletsch.png"
+  bio              : "MSc Climate Science student at the University of Bern and OESCHGER centre for climate change research."
+  bio1             : 
+  bio2             : "Climate epidemiology, risk assessments, climate change, climate vulnerability."
+  bio3             : 
+  bio4             : "*368ppm. he|him"
+  location         : "Bern, Switzerland"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=dCq79A4AAAAJ"
-  email            : "milan dot kloewer at physics dot ox dot ac dot uk"
+  googlescholar    : # "https://scholar.google.com/citations?user=dCq79A4AAAAJ"
+  email            : "tino dot schneidewind at unibe dot ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,14 +99,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "milankl"
+  github           : "tinojona"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0002-3920-4356"
+  orcid            : # "http://orcid.org/0000-0002-3920-4356"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
