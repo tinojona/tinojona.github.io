@@ -5,9 +5,9 @@ permalink: /projects/
 author_profile: true
 ---
 
-A list of projects that I can envisage for Master and/or PhD projects.
-This list is not complete but should give prospective students an idea about
-possible projects. Do reach out with your own ideas too!
+An list of projects that I worked on. Reach out if you want to collaborate!
+
+
 
 ## Differentiable atmospheric modelling: Learning from data between Earth’s and exoplanetary climates
 
