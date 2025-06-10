@@ -24,5 +24,5 @@ redirect_from:
 
 ### Internships
 
-* [Climate Epidemiology and Public Health](https://www.ispm.unibe.ch/research/research_groups_and_themes/climate_epidemiology_and_public_health/index_eng.html), Oeschger Centre for Climate Change Research, University of Bern, Switzerland 2025, 6 months.
+* [Climate Epidemiology and Public Health](https://www.ispm.unibe.ch/research/research_groups_and_themes/climate_epidemiology_and_public_health/index_eng.html), Oeschger Centre for Climate Change Research, University of Bern, Switzerland, 2025, 6 months.
 * Deutscher Wetterdients [DWD](https://www.dwd.de/DE/Home/home_node.html), Meteorologisches Observatorium Lindenberg, Richard Assmann-Observatorium, Germany, 2022, 2 months.  
