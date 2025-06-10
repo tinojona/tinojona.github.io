@@ -54,10 +54,10 @@ $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #282c34;
-$background-color           : #282c34; // changed from #282c34 
+$background-color           : #e0e1dd; // changed from #282c34 (orange modified)
 $code-background-color      : #45484f;
 $code-background-color-dark : #45484f;
-$text-color                 : #dddddd; // changed from #dddddd
+$text-color                 : #003049; // changed from #dddddd (orange modified)
 $border-color               : #474a4f;
 
 $primary-color              : #7a8288;
@@ -93,11 +93,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : #ee9b00; // changed from #59b6c2
+$link-color                 : #9b2226; // changed from #ee9b00 (orange modified)
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : #cccccc; // changed from #cccccc
-$masthead-link-color-hover  : #ee9b00; // changed from #59b6c2
+$masthead-link-color        : #1b263b; // changed from #cccccc
+$masthead-link-color-hover  : #9b2226; // changed from #ee9b00 (orange modified)
 
 
 /*
