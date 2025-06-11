@@ -6,17 +6,15 @@ the MIT License. See LICENSE.md. Original [README.md](https://github.com/academi
 
 Content
 
-- [Bio and contact details](https://github.com/milankl/milankl.github.io/blob/main/_config.yml)
-- [About](https://github.com/milankl/milankl.github.io/edit/main/_pages/publications.md)
-- [Publications](https://github.com/milankl/milankl.github.io/edit/main/_pages/publications.md)
-- [Presentations](https://github.com/milankl/milankl.github.io/edit/main/_pages/presentations.md)
-- [Media & outreach](https://github.com/milankl/milankl.github.io/blob/main/_pages/media_coverage.md)
-- [CV](https://github.com/milankl/milankl.github.io/edit/main/_pages/cv.md)
-- [Videos](https://github.com/milankl/milankl.github.io/edit/main/_pages/video.md)
-- [Files](https://github.com/milankl/milankl.github.io/tree/main/files)
+- [Bio and contact details](https://github.com/tinojona/tinojona.github.io/blob/main/_config.yml)
+- [About](https://github.com/tinojona/tinojona.github.io/edit/main/_pages/publications.md)
+- [Publications](https://github.com/tinojona/tinojona.github.io/edit/main/_pages/publications.md)
+- [Presentations](https://github.com/tinojona/tinojona.github.io/edit/main/_pages/presentations.md)
+- [CV](https://github.com/tinojona/tinojona.github.io/edit/main/_pages/cv.md)
+- [Files](https://github.com/tinojona/tinojona.github.io/tree/main/files)
 
 Layout and settings
 
-- [Header navigation](https://github.com/milankl/milankl.github.io/blob/main/_data/navigation.yml)
-- [Footer](https://github.com/milankl/milankl.github.io/blob/main/_includes/footer/custom.html)
-- [Fonts and colours](https://github.com/milankl/milankl.github.io/blob/main/_sass/_variables.scss)
+- [Header navigation](https://github.com/tinojona/tinojona.github.io/blob/main/_data/navigation.yml)
+- [Footer](https://github.com/tinojona/tinojona.github.io/blob/main/_includes/footer/custom.html)
+- [Fonts and colours](https://github.com/tinojona/tinojona.github.io/blob/main/_sass/_variables.scss)
