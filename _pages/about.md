@@ -16,7 +16,12 @@ For my Master’s thesis, I worked with Prof. A. M. Vicedo-Cabrera and Dr. A. Sa
 
 I hold a Bachelor’s degree in Environmental Sciences from the [University of Bayreuth](https://www.uni-bayreuth.de/), where I developed a broad interest in environmental systems and worked on evaluating the [changes of the precipitation distribution and intensity and their consequences for water balance](https://github.com/tinojona/tinojona.github.io/blob/main/files/BA_Tino_Schneidewind.pdf) as my Bachelor`s thesis. Outside of research, you’ll often find me in the mountains—climbing, hiking, or cycling.
 
-I’m committed to open science on my [GitHub profile](https://github.com/tinojona), interdisciplinary collaboration, and producing policy-relevant research that contributes to a more sustainable and equitable future.
+- *Climate risk and health*: Identifying climate signals, exposure pathways, and population vulnerabilities; assessing health impacts through narrative-driven storylines.
+- *Data analysis and modeling*: Using Python and R for spatial and temporal analysis, DLNM models, time series, and epidemiological inference; crafting plots that communicate with clarity and purpose.
+- *Environmental epidemiology*: Investigating links between climate variability (e.g. heat, foehn winds) and health outcomes; integrating statistical and mechanistic approaches.
+- *Research tools and open science*: Developing reproducible workflows, sharing code and data on [GitHub](https://github.com/tinojona), and building tools for interdisciplinary research.
+
+I’m committed to open science, interdisciplinary collaboration, and producing policy-relevant research that contributes to a more sustainable and equitable future.
 
 Let’s work toward a world where science not only understands change—but helps shape it for the better.
 
