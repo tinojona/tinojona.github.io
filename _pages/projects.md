@@ -7,7 +7,7 @@ author_profile: true
 
 An list of projects that I worked on. Reach out if you want to collaborate!
 
-## The risk of hospitalizations associated with foehn winds and heat in the mountainous region of Switzerland. [[Code]](https://github.com/tinojona/Paper_2025_foehn_winds_and_hospitalizations)
+## Master Thesis: the risk of hospitalizations associated with foehn winds and heat in the mountainous region of Switzerland. [[Code]](https://github.com/tinojona/Paper_2025_foehn_winds_and_hospitalizations)
 
 <div style="max-width: 900px; margin: 0 auto;">
   <p>
@@ -27,6 +27,16 @@ An list of projects that I worked on. Reach out if you want to collaborate!
     </div>
   </div>
 </div>
+
+
+
+## Tropical Cyclone Freddy - an AI-forecasts performance assessment on extreme events [[Report]](https://github.com/tinojona/Tropical_Cyclone_Freddy/blob/main/FINAL_REPORT.pdf) [[Code]](https://github.com/tinojona/Tropical_Cyclone_Freddy)
+
+
+
+
+
+
 
 ## Air pollution and emergency rooom visits in Basel, Switzerland [[Report]](https://github.com/tinojona/PM10_Emergency_room_visits/blob/main/FINAL_REPORT.html) [[Code]](https://github.com/tinojona/PM10_Emergency_room_visits/tree/main)
 
@@ -50,8 +60,6 @@ An list of projects that I worked on. Reach out if you want to collaborate!
 </div>
 
 
-## Tropical Cyclone Freddy - an AI-forecasts performance assessment on extreme events
+## Are Switzerland`s dogs threatened by future unabated global warming? [[Report]]phttps://github.com/tinojona/tinojona.github.io/blob/main/files/CRA_Report_Schneidewind.pdf)
 
-## Heat stress for dogs in a future climate
-
-## Bachelor Thesis: Changes in Precipitation Distribution and Intensity and their Consequences on Water Balance in the Fichtelgebirge, Northern Bavaria
+## Bachelor Thesis: Changes in Precipitation Distribution and Intensity and their Consequences on Water Balance in the Fichtelgebirge, Northern Bavaria [[Report]](https://github.com/tinojona/tinojona.github.io/blob/main/files/BA_Tino_Schneidewind.pdf)
