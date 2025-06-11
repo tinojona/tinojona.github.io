@@ -5,6 +5,8 @@ permalink: /projects/
 author_profile: true
 ---
 
+<br>
+
 An list of projects that I worked on. Reach out if you want to collaborate!
 
 ## Master Thesis: the risk of hospitalizations associated with foehn winds and heat in the mountainous region of Switzerland. [[Code]](https://github.com/tinojona/Paper_2025_foehn_winds_and_hospitalizations)
