@@ -10,6 +10,7 @@ Content
 - [About](https://github.com/tinojona/tinojona.github.io/edit/main/_pages/publications.md)
 - [Publications](https://github.com/tinojona/tinojona.github.io/edit/main/_pages/publications.md)
 - [Presentations](https://github.com/tinojona/tinojona.github.io/edit/main/_pages/presentations.md)
+- [Projects](https://github.com/tinojona/tinojona.github.io/edit/main/_pages/projects.md)
 - [CV](https://github.com/tinojona/tinojona.github.io/edit/main/_pages/cv.md)
 - [Files](https://github.com/tinojona/tinojona.github.io/tree/main/files)
 
