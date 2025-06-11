@@ -32,12 +32,12 @@ An list of projects that I worked on. Reach out if you want to collaborate!
 
 <div style="max-width: 900px; margin: 0 auto;">
   <p>
-    Over the past decade, research into the health effects of air pollution has grown rapidly, with increasing evidence linking air pollutants to a range of acute and chronic health outcomes. Short-term exposure to PM10 (particulate matter with aerodynamic diameters ≤ 10 μm) has been consistently associated with increases in emergency department visits and hospitalisations, particularly for respiratory and cardiovascular diseases. Applying a time series analysis using distributed lagged non-linear models, we found that PM10 exposure increases the risk for an emergency room visit in Basel, Switzerland (Figure below). This risk decreases when taking temperature as a confounder into account. The presence of heat further exarcebated this risk, with specific vulnerabilities in males and older individuals, as well as cardiovascular cause emergency room visits.
+    Over the past decade, research into the health effects of air pollution has grown rapidly, with increasing evidence linking air pollutants to a range of acute and chronic health outcomes. Short-term exposure to PM10 (particulate matter with aerodynamic diameters ≤ 10 μm) has been consistently associated with increases in emergency department visits and hospitalisations, particularly for respiratory and cardiovascular diseases. Applying a time series analysis using distributed lagged non-linear models, we found that PM10 exposure increases the risk for an emergency room visit in Basel, Switzerland (Figure below). This risk decreases when taking temperature as a confounder into account. The presence of heat further exacerbated this risk, with specific vulnerabilities in males and older individuals, as well as cardiovascular cause emergency room visits.
   </p>
 
   <div style="text-align: center; margin-top: 10px;">
     <img 
-      src="https://github.com/tinojona/PM10_Emergency_room_visits/blob/main/plots/model1_model2_all.png" 
+      src="https://raw.githubusercontent.com/tinojona/PM10_Emergency_room_visits/main/plots/model1_model2_all.png" 
       style="width: 50%; border: 1px solid #ccc;" 
       alt="PM10 Cumulative relative risk for all-cause hospitalization"
     />
