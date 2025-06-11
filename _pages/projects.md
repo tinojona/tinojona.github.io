@@ -7,16 +7,14 @@ author_profile: true
 
 An list of projects that I worked on. Reach out if you want to collaborate!
 
-Notes: give for every project a short introduction (background), explain the methods, and the main results and conclusion. refer to the figure and why this is important. link to github if possible.
+## The risk of hospitalizations associated with foehn winds and heat in the mountainous region of Switzerland. [[Code]](https://github.com/tinojona/Paper_2025_foehn_winds_and_hospitalizations)
 
-## The risk of hospitalizations associated with foehn winds and heat in the mountainous region of Switzerland. 
-
-<div style="max-width: 800px; margin: 0 auto;">
+<div style="max-width: 900px; margin: 0 auto;">
   <p>
     Foehn winds are intense warm winds, common in mountain regions, but their health impacts and potential to exacerbate existing heat-related risks remain poorly understood. We investigated the independent and combined association of foehn winds and temperature with cause-specific emergency hospitalizations in Switzerland. We found that foehn winds daily intensity showed small and no consistent association with hospitalizations in temperature-adjusted and non-adjusted models. However, foehn winds amplified heat-related hospitalization risk with a 14% increase in risk at the 99th temperature percentile on foehn days, compared to -2% on non-foehn days (Figure below). The association was larger for females, older adults, and for hospitalizations due to respiratory and mental health causes. While foehn winds did not directly impact hospitalizations, they may contribute to an amplification of heat-related health risks, especially for females and older adults.
   </p>
 
-  <div style="text-align: center; margin-top: 20px;">
+  <div style="text-align: center; margin-top: 10px;">
     <img 
       src="https://github.com/tinojona/Paper_2025_foehn_winds_and_hospitalizations/blob/main/output/figures/Figure3_only_allcause_bluered.png?raw=true" 
       style="width: 70%; border: 1px solid #ccc;" 
@@ -30,7 +28,27 @@ Notes: give for every project a short introduction (background), explain the met
   </div>
 </div>
 
-## Air pollution and emergency rooom visits in Basel, Switzerland
+## Air pollution and emergency rooom visits in Basel, Switzerland 
+
+<div style="max-width: 900px; margin: 0 auto;">
+  <p>
+    Over the past decade, research into the health effects of air pollution has grown rapidly, with increasing evidence linking air pollutants to a range of acute and chronic health outcomes. Short-term exposure to PM10 (particulate matter with aerodynamic diameters ≤ 10 μm) has been consistently associated with increases in emergency department visits and hospitalisations, particularly for respiratory and cardiovascular diseases. Applying a time series analysis using distributed lagged non-linear models, we found that PM10 exposure increases the risk for an emergency room visit in Basel, Switzerland (Figure below). This risk decreases when taking temperature as a confounder into account. The presence of heat further exarcebated this risk, with specific vulnerabilities in males and older individuals, as well as cardiovascular cause emergency room visits.
+  </p>
+
+  <div style="text-align: center; margin-top: 10px;">
+    <img 
+      src="https://github.com/tinojona/PM10_Emergency_room_visits/blob/main/plots/model1_model2_all.png" 
+      style="width: 50%; border: 1px solid #ccc;" 
+      alt="PM10 Cumulative relative risk for all-cause hospitalization"
+    />
+    <div style="font-size: 90%; color: #555; margin-top: 5px;">
+      <em>
+        Exposure response for PM10 for all cause emergency room visits from Model 1 (no temperature confounding) and Model 2 (with temperature confounding).
+      </em>
+    </div>
+  </div>
+</div>
+
 
 ## Tropical Cyclone Freddy - an AI-forecasts performance assessment on extreme events
 
