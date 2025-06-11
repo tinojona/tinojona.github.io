@@ -28,7 +28,7 @@ An list of projects that I worked on. Reach out if you want to collaborate!
   </div>
 </div>
 
-## Air pollution and emergency rooom visits in Basel, Switzerland 
+## Air pollution and emergency rooom visits in Basel, Switzerland [[Report]](https://github.com/tinojona/PM10_Emergency_room_visits/blob/main/FINAL_REPORT.html) [[Code]](https://github.com/tinojona/PM10_Emergency_room_visits/tree/main)
 
 <div style="max-width: 900px; margin: 0 auto;">
   <p>
