@@ -62,6 +62,6 @@ An list of projects that I worked on. Reach out if you want to collaborate!
 </div>
 
 
-## Are Switzerland`s dogs threatened by future unabated global warming? [[Report]]phttps://github.com/tinojona/tinojona.github.io/blob/main/files/CRA_Report_Schneidewind.pdf)
+## Are Switzerland`s dogs threatened by future unabated global warming? [[Report]](https://github.com/tinojona/tinojona.github.io/blob/main/files/CRA_Report_Schneidewind.pdf)
 
 ## Bachelor Thesis: Changes in Precipitation Distribution and Intensity and their Consequences on Water Balance in the Fichtelgebirge, Northern Bavaria [[Report]](https://github.com/tinojona/tinojona.github.io/blob/main/files/BA_Tino_Schneidewind.pdf)
