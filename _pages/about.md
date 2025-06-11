@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<br>
+
 Hi there! I’m Tino, a climate scientist passionate about the intersection of climate change and public health.
 
 I’m currently pursuing a Master’s degree in Climate Science at the [University of Bern](https://www.unibe.ch/) and the [Oeschger Centre for Climate Change Research](https://www.oeschger.unibe.ch/). My academic focus lies in climate-related hazards and environmental epidemiology. I explore how climate change affects human health by analyzing exposure to environmental risks and identifying vulnerable populations, with the goal of strengthening societal resilience to current and future challenges.
