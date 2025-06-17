@@ -41,6 +41,7 @@ An list of projects that I worked on. Reach out via email if you want to collabo
 
 ## 2025: Air pollution and emergency rooom visits in Basel, Switzerland [[Report]](https://github.com/tinojona/PM10_Emergency_room_visits/blob/main/FINAL_REPORT.pdf) [[Code]](https://github.com/tinojona/PM10_Emergency_room_visits/tree/main)
 
+
 <details style="max-width: 900px; margin: 0 auto;">
   <summary style="cursor: pointer; font-weight: bold; margin-bottom: 10px;">Click to read summary and see figure</summary>
   
@@ -66,6 +67,7 @@ An list of projects that I worked on. Reach out via email if you want to collabo
 
 ## 2024: Tropical Cyclone Freddy - an AI-forecasts performance assessment on extreme events [[Report]](https://github.com/tinojona/Tropical_Cyclone_Freddy/blob/main/FINAL_REPORT.pdf) [[Code]](https://github.com/tinojona/Tropical_Cyclone_Freddy)
 
+
 <details style="max-width: 900px; margin: 0 auto;">
   <summary style="cursor: pointer; font-weight: bold; margin-bottom: 10px;">Click to read summary and see figure</summary>
   
@@ -90,7 +92,9 @@ An list of projects that I worked on. Reach out via email if you want to collabo
 
 
 
+
 ## 2024: Are Switzerland`s dogs threatened by future unabated global warming? [[Report]](https://github.com/tinojona/tinojona.github.io/blob/main/files/CRA_Report_Schneidewind.pdf)
+
 
 <details style="max-width: 900px; margin: 0 auto;">
   <summary style="cursor: pointer; font-weight: bold; margin-bottom: 10px;">Click to read summary and see figure</summary>
@@ -114,8 +118,10 @@ An list of projects that I worked on. Reach out via email if you want to collabo
 
 
 
-## 2023: Bachelor Thesis: Changes in Precipitation Distribution and Intensity and their Consequences on Water Balance in the Fichtelgebirge, Northern Bavaria [[Thesis]](https://github.com/tinojona/tinojona.github.io/blob/main/files/BA_Tino_Schneidewind.pdf)
 
+
+
+## 2023: Bachelor Thesis: Changes in Precipitation Distribution and Intensity and their Consequences on Water Balance in the Fichtelgebirge, Northern Bavaria [[Thesis]](https://github.com/tinojona/tinojona.github.io/blob/main/files/BA_Tino_Schneidewind.pdf)
 
 
 <details style="max-width: 900px; margin: 0 auto;">
