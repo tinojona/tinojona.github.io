@@ -29,4 +29,4 @@ redirect_from:
 
 <br>
 
-**For a more detailed description of my studies, tasks during my internships, non-academic jobs, and voluntary work please consider my [LinkedIn profile](https://www.linkedin.com/in/tino-schneidewind/).**
+**For a more detailed description of my studies,** tasks during my internships, non-academic jobs, and voluntary work **please consider my [LinkedIn profile](https://www.linkedin.com/in/tino-schneidewind/).**
