@@ -73,6 +73,7 @@ An list of projects that I worked on. Reach out via email if you want to collabo
   
   <p>
     text about freddy and nice 3x2 plot of character danger and differneces
+  </p>
 
   <div style="text-align: center; margin-top: 10px;">
     <img 
@@ -101,6 +102,7 @@ An list of projects that I worked on. Reach out via email if you want to collabo
   
   <p>
     text about tuuli and nice 2x2 plot of different scenarios
+  </p>
 
   <div style="text-align: center; margin-top: 10px;">
     <img 
@@ -129,6 +131,7 @@ An list of projects that I worked on. Reach out via email if you want to collabo
   
   <p>
     text about precipitation and nice 3x2 plot of different indices and water balance
+  </p>
 
   <div style="text-align: center; margin-top: 10px;">
     <img 
