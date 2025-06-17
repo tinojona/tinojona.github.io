@@ -7,10 +7,10 @@ author_profile: true
 
 <br>
 
-An list of projects that I worked on. Reach out if you want to collaborate!
+An list of projects that I worked on. Reach out via Email if you want to collaborate!
 
 <h2>
-  Master Thesis: the risk of hospitalizations associated with foehn winds and heat in the mountainous region of Switzerland. 
+  2025: Master Thesis: the risk of hospitalizations associated with foehn winds and heat in the mountainous region of Switzerland. 
   <a href="https://github.com/tinojona/Paper_2025_foehn_winds_and_hospitalizations" target="_blank">[Code]</a>
 </h2>
 
@@ -37,17 +37,13 @@ An list of projects that I worked on. Reach out if you want to collaborate!
 
 
 
-## Tropical Cyclone Freddy - an AI-forecasts performance assessment on extreme events [[Report]](https://github.com/tinojona/Tropical_Cyclone_Freddy/blob/main/FINAL_REPORT.pdf) [[Code]](https://github.com/tinojona/Tropical_Cyclone_Freddy)
 
 
+## 2025: Air pollution and emergency rooom visits in Basel, Switzerland [[Report]](https://github.com/tinojona/PM10_Emergency_room_visits/blob/main/FINAL_REPORT.pdf) [[Code]](https://github.com/tinojona/PM10_Emergency_room_visits/tree/main)
 
-
-
-
-
-## Air pollution and emergency rooom visits in Basel, Switzerland [[Report]](https://github.com/tinojona/PM10_Emergency_room_visits/blob/main/FINAL_REPORT.html) [[Code]](https://github.com/tinojona/PM10_Emergency_room_visits/tree/main)
-
-<div style="max-width: 900px; margin: 0 auto;">
+<details style="max-width: 900px; margin: 0 auto;">
+  <summary style="cursor: pointer; font-weight: bold; margin-bottom: 10px;">Click to read summary and see figure</summary>
+  
   <p>
     Over the past decade, research into the health effects of air pollution has grown rapidly, with increasing evidence linking air pollutants to a range of acute and chronic health outcomes. Short-term exposure to PM10 (particulate matter with aerodynamic diameters ≤ 10 μm) has been consistently associated with increases in emergency department visits and hospitalisations, particularly for respiratory and cardiovascular diseases. Applying a time series analysis using distributed lagged non-linear models, we found that PM10 exposure increases the risk for an emergency room visit in Basel, Switzerland (Figure below). This risk decreases when taking temperature as a confounder into account. The presence of heat further exacerbated this risk, with specific vulnerabilities in males and older individuals, as well as cardiovascular cause emergency room visits.
   </p>
@@ -55,7 +51,7 @@ An list of projects that I worked on. Reach out if you want to collaborate!
   <div style="text-align: center; margin-top: 10px;">
     <img 
       src="https://raw.githubusercontent.com/tinojona/PM10_Emergency_room_visits/main/plots/model1_model2_all.png" 
-      style="width: 50%; border: 1px solid #ccc;" 
+      style="width: 70%; border: 1px solid #ccc;" 
       alt="PM10 Cumulative relative risk for all-cause hospitalization"
     />
     <div style="font-size: 90%; color: #555; margin-top: 5px;">
@@ -64,7 +60,19 @@ An list of projects that I worked on. Reach out if you want to collaborate!
       </em>
     </div>
   </div>
-</div>
+</details>
+
+
+
+
+
+
+## Tropical Cyclone Freddy - an AI-forecasts performance assessment on extreme events [[Report]](https://github.com/tinojona/Tropical_Cyclone_Freddy/blob/main/FINAL_REPORT.pdf) [[Code]](https://github.com/tinojona/Tropical_Cyclone_Freddy)
+
+
+
+
+
 
 
 ## Are Switzerland`s dogs threatened by future unabated global warming? [[Report]](https://github.com/tinojona/tinojona.github.io/blob/main/files/CRA_Report_Schneidewind.pdf)
