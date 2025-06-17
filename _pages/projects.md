@@ -114,7 +114,7 @@ An list of projects that I worked on. Reach out via email if you want to collabo
 
 
 
-## 2023: Bachelor Thesis: Changes in Precipitation Distribution and Intensity and their Consequences on Water Balance in the Fichtelgebirge, Northern Bavaria [[Report]](https://github.com/tinojona/tinojona.github.io/blob/main/files/BA_Tino_Schneidewind.pdf)
+## 2023: Bachelor Thesis: Changes in Precipitation Distribution and Intensity and their Consequences on Water Balance in the Fichtelgebirge, Northern Bavaria [[Thesis]](https://github.com/tinojona/tinojona.github.io/blob/main/files/BA_Tino_Schneidewind.pdf)
 
 
 
