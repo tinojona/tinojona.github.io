@@ -11,3 +11,5 @@ author_profile: true
 | --- | --- |
 | 06/2025 | Schneidewind et al. _The risk of hospitalization associated with foehn winds and heat in the mountainous region of Switzerland_, talk at [DACH 2025](https://dach2025.oeschger.unibe.ch/), Bern Switzerland. |
 | --- | --- |
+
+add SWGD Poster and publish my slides in pdf form for DACH on following and link to my conference abstracts 
