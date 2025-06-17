@@ -22,7 +22,7 @@ author_profile: true
 
 ### Reports
 
-|2025| Schneidewind T, Kessler L, Rigny T, Stajic D. [*Air pollution and emergency room visits*](file:///Users/ts24n298/Documents/Master/Environmental%20Epidemiology/GIT_REPO_EE/FINAL_REPORT.html), University of Bern, Switzerland. [[Code here]](https://github.com/tinojona/PM10_Emergency_room_visits) |
+|2025| Schneidewind T, Kessler L, Rigny T, Stajic D. [*Air pollution and emergency room visits*](https://github.com/tinojona/PM10_Emergency_room_visits/blob/main/FINAL_REPORT.pdf), University of Bern, Switzerland. [[Code here]](https://github.com/tinojona/PM10_Emergency_room_visits) |
 |2024| Schneidewind T, Bächtold L. [*Tropical Cyclone Freddy: a Performance Assessment of AI Pangu-Weather Forecasts on ERA5-Data*](https://github.com/tinojona/tinojona.github.io/blob/main/files/FINAL_REPORT.pdf), University of Bern, Switzerland. [[Code here]](https://github.com/tinojona/Tropical_Cyclone_Freddy)| 
 |2024| Schneidewind T. [*Are Switzerlands Dogs Threatened by Future Unabated Global Warming?*](https://github.com/tinojona/tinojona.github.io/blob/main/files/CRA_Report_Schneidewind.pdf), University of Bern, Switzerland. |
 
