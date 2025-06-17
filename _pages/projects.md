@@ -7,7 +7,9 @@ author_profile: true
 
 <br>
 
-An list of projects that I worked on. Reach out via Email if you want to collaborate!
+An list of projects that I worked on. Reach out via email if you want to collaborate!
+
+
 
 <h2>
   2025: Master Thesis: the risk of hospitalizations associated with foehn winds and heat in the mountainous region of Switzerland. 
@@ -37,8 +39,6 @@ An list of projects that I worked on. Reach out via Email if you want to collabo
 
 
 
-
-
 ## 2025: Air pollution and emergency rooom visits in Basel, Switzerland [[Report]](https://github.com/tinojona/PM10_Emergency_room_visits/blob/main/FINAL_REPORT.pdf) [[Code]](https://github.com/tinojona/PM10_Emergency_room_visits/tree/main)
 
 <details style="max-width: 900px; margin: 0 auto;">
@@ -64,17 +64,80 @@ An list of projects that I worked on. Reach out via Email if you want to collabo
 
 
 
+## 2024: Tropical Cyclone Freddy - an AI-forecasts performance assessment on extreme events [[Report]](https://github.com/tinojona/Tropical_Cyclone_Freddy/blob/main/FINAL_REPORT.pdf) [[Code]](https://github.com/tinojona/Tropical_Cyclone_Freddy)
+
+<details style="max-width: 900px; margin: 0 auto;">
+  <summary style="cursor: pointer; font-weight: bold; margin-bottom: 10px;">Click to read summary and see figure</summary>
+  
+  <p>
+    text about freddy and nice 3x2 plot of character danger and differneces
+
+  <div style="text-align: center; margin-top: 10px;">
+    <img 
+      src="https://raw.githubusercontent.com/tinojona/PM10_Emergency_room_visits/main/plots/model1_model2_all.png" 
+      style="width: 70%; border: 1px solid #ccc;" 
+      alt="PM10 Cumulative relative risk for all-cause hospitalization"
+    />
+    <div style="font-size: 90%; color: #555; margin-top: 5px;">
+      <em>
+        Exposure response for PM10 for all cause emergency room visits from Model 1 (no temperature confounding) and Model 2 (with temperature confounding).
+      </em>
+    </div>
+  </div>
+</details>
 
 
 
-## Tropical Cyclone Freddy - an AI-forecasts performance assessment on extreme events [[Report]](https://github.com/tinojona/Tropical_Cyclone_Freddy/blob/main/FINAL_REPORT.pdf) [[Code]](https://github.com/tinojona/Tropical_Cyclone_Freddy)
+
+
+## 2024: Are Switzerland`s dogs threatened by future unabated global warming? [[Report]](https://github.com/tinojona/tinojona.github.io/blob/main/files/CRA_Report_Schneidewind.pdf)
+
+<details style="max-width: 900px; margin: 0 auto;">
+  <summary style="cursor: pointer; font-weight: bold; margin-bottom: 10px;">Click to read summary and see figure</summary>
+  
+  <p>
+    text about tuuli and nice 2x2 plot of different scenarios
+
+  <div style="text-align: center; margin-top: 10px;">
+    <img 
+      src="https://raw.githubusercontent.com/tinojona/PM10_Emergency_room_visits/main/plots/model1_model2_all.png" 
+      style="width: 70%; border: 1px solid #ccc;" 
+      alt="PM10 Cumulative relative risk for all-cause hospitalization"
+    />
+    <div style="font-size: 90%; color: #555; margin-top: 5px;">
+      <em>
+        Exposure response for PM10 for all cause emergency room visits from Model 1 (no temperature confounding) and Model 2 (with temperature confounding).
+      </em>
+    </div>
+  </div>
+</details>
+
+
+
+## 2023: Bachelor Thesis: Changes in Precipitation Distribution and Intensity and their Consequences on Water Balance in the Fichtelgebirge, Northern Bavaria [[Report]](https://github.com/tinojona/tinojona.github.io/blob/main/files/BA_Tino_Schneidewind.pdf)
+
+
+
+<details style="max-width: 900px; margin: 0 auto;">
+  <summary style="cursor: pointer; font-weight: bold; margin-bottom: 10px;">Click to read summary and see figure</summary>
+  
+  <p>
+    text about precipitation and nice 3x2 plot of different indices and water balance
+
+  <div style="text-align: center; margin-top: 10px;">
+    <img 
+      src="https://raw.githubusercontent.com/tinojona/PM10_Emergency_room_visits/main/plots/model1_model2_all.png" 
+      style="width: 70%; border: 1px solid #ccc;" 
+      alt="PM10 Cumulative relative risk for all-cause hospitalization"
+    />
+    <div style="font-size: 90%; color: #555; margin-top: 5px;">
+      <em>
+        Exposure response for PM10 for all cause emergency room visits from Model 1 (no temperature confounding) and Model 2 (with temperature confounding).
+      </em>
+    </div>
+  </div>
+</details>
 
 
 
 
-
-
-
-## Are Switzerland`s dogs threatened by future unabated global warming? [[Report]](https://github.com/tinojona/tinojona.github.io/blob/main/files/CRA_Report_Schneidewind.pdf)
-
-## Bachelor Thesis: Changes in Precipitation Distribution and Intensity and their Consequences on Water Balance in the Fichtelgebirge, Northern Bavaria [[Report]](https://github.com/tinojona/tinojona.github.io/blob/main/files/BA_Tino_Schneidewind.pdf)
