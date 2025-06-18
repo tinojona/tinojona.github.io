@@ -10,8 +10,8 @@ author_profile: true
 <br> 
 
  <p style="margin-bottom: 0px;">
-  2025 Schneidewind T, Lee S, Vicedo-Cabrera A M, Saucy A. <em>The risk of hospitalization associated with foehn winds and
-  <span style="margin-left: 30px;">heat in the mountainous region of Switzerland</em>, <b>Environmental Epidemiology<b>, under Review!</span>
+  2025 Schneidewind T, Lee S, Vicedo-Cabrera A M, Saucy A. <em>The risk of hospitalization associated with foehn winds and</em>
+  <span style="margin-left: 30px;"><em>heat in the mountainous region of Switzerland</em>, <b>Environmental Epidemiology</b>, under Review!</span>
   <a href="https://github.com/tinojona/Paper_2025_foehn_winds_and_hospitalizations">[Code]</a>
 </p>
 
