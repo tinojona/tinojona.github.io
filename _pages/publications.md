@@ -7,6 +7,8 @@ author_profile: true
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
+
+
 <br> 
 
  <p style="margin-bottom: 0px;">
@@ -39,13 +41,15 @@ author_profile: true
 
 <br> 
 
+
+
 ## Scientific Reports (non-peer reviewed)
 
 ### Theses
 
  <p style="margin-bottom: 0px;">
-  2025 Master thesis. <em>The risk of hospitalization associated with foehn winds and heat in the mountainous region</em>
-  <span style="margin-left: 47px;"><em>of Switzerland</em>, University of Bern, Switzerland.</span>
+  2025 Master thesis. <em>The risk of hospitalization associated with foehn winds and heat in the mountainous region of</em>
+  <span style="margin-left: 47px;"><em>Switzerland</em>, University of Bern, Switzerland.</span>
   <a href="https://github.com/tinojona/Paper_2025_foehn_winds_and_hospitalizations">[Code]</a>
 </p>
 
