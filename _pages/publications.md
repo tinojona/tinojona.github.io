@@ -23,14 +23,17 @@ author_profile: true
 ### Reports
 
 
-  <p style="margin-bottom: 0px;">
+ <p style="margin-bottom: 0px;">
   |2025| Schneidewind T, Kessler L, Rigny T, Stajic D. 
   <a href="https://github.com/tinojona/PM10_Emergency_room_visits/blob/main/FINAL_REPORT.pdf"><em>Air pollution and emergency room visits</em></a>, 
   University of Bern, Switzerland. 
-  <a href="https://github.com/tinojona/PM10_Emergency_room_visits">[Code]</a> 
-  |
+  <a href="https://github.com/tinojona/PM10_Emergency_room_visits">[Code]</a>
+   |
 </p>
 
+<details style="max-width: 900px; margin: 0 auto 4px auto;">
+  <summary style="cursor: pointer; font-weight: normal; margin-bottom: 0px;">Click to read summary and see figure</summary>
+  
   <p style="margin-top: 2px;">
     Foehn winds are intense warm winds, common in mountain regions, but their health impacts and potential to exacerbate existing heat-related risks remain poorly understood. We investigated the independent and combined association of foehn winds and temperature with cause-specific emergency hospitalizations in Switzerland. We found that foehn winds daily intensity showed small and no consistent association with hospitalizations in temperature-adjusted and non-adjusted models. However, foehn winds amplified heat-related hospitalization risk with a 14% increase in risk at the 99th temperature percentile on foehn days, compared to -2% on non-foehn days (Figure below). The association was larger for females, older adults, and for hospitalizations due to respiratory and mental health causes. While foehn winds did not directly impact hospitalizations, they may contribute to an amplification of heat-related health risks, especially for females and older adults.
   </p>
