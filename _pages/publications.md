@@ -81,14 +81,14 @@ author_profile: true
   <summary style="cursor: pointer; font-weight: normal; margin-bottom: 2px;">summary and key figure</summary>
   
   <p style="margin-top: 2px;">
-    Foehn winds are intense warm winds, common in mountain regions, but their health impacts and potential to exacerbate existing heat-related risks remain poorly understood. We investigated the independent and combined association of foehn winds and temperature with cause-specific emergency hospitalizations in Switzerland. We found that foehn winds daily intensity showed small and no consistent association with hospitalizations in temperature-adjusted and non-adjusted models. However, foehn winds amplified heat-related hospitalization risk with a 14% increase in risk at the 99th temperature percentile on foehn days, compared to -2% on non-foehn days (Figure below). The association was larger for females, older adults, and for hospitalizations due to respiratory and mental health causes. While foehn winds did not directly impact hospitalizations, they may contribute to an amplification of heat-related health risks, especially for females and older adults.
+    Climate change has intensified and altered precipitation patterns, with locally heterogeneous impacts that may affect regional water balance trends. In the Fichtelgebirge—a low mountain range in northern Bavaria—extreme precipitation and its consequences have not yet been systematically studied. This thesis investigates trends in precipitation and water balance from 1994 to 2022, focusing on changes in precipitation distribution, particularly extremes. Using precipitation indices, event-based analysis, and sub-daily data, the study finds a decline in both overall precipitation and water balance, including extreme precipitation events. These findings suggest that decreasing water availability may increase the risk of drought in the region in the future.
   </p>
 
   <div style="text-align: center; margin-top: 4px;">
     <img 
-      src="https://raw.githubusercontent.com/tinojona/Paper_2025_foehn_winds_and_hospitalizations/main/output/figures/Figure3_only_allcause_bluered.png" 
+      src="https://raw.githubusercontent.com/tinojona/tinojona.github.io/blob/main/images/BA.png" 
       style="width: 70%; border: 1px solid #ccc;" 
-      alt="Cumulative relative risk for all-cause hospitalization"
+      alt="precipitation indices"
     />
     <div style="font-size: 80%; color: #555; margin-top: 4px; margin-bottom: 6px;">
       <em>
