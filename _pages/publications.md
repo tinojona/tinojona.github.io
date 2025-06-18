@@ -39,10 +39,6 @@ author_profile: true
 </details>
 
 
-<br> 
-
-
-
 ## Scientific Reports (non-peer reviewed)
 
 ### Theses
