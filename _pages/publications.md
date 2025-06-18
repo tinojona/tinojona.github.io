@@ -25,19 +25,19 @@ author_profile: true
 |2025| Schneidewind T, Kessler L, Rigny T, Stajic D. [*Air pollution and emergency room visits*](https://github.com/tinojona/PM10_Emergency_room_visits/blob/main/FINAL_REPORT.pdf), University of Bern, Switzerland. [[Code here]](https://github.com/tinojona/PM10_Emergency_room_visits) |
 
 <details style="max-width: 900px; margin: 0 auto;">
-  <summary style="cursor: pointer; font-weight: bold; margin-bottom: 10px;">Click to read summary and see figure</summary>
+  <summary style="cursor: pointer; font-weight: normal; margin-bottom: 4px;">Click to read summary and see figure</summary>
   
   <p>
     Foehn winds are intense warm winds, common in mountain regions, but their health impacts and potential to exacerbate existing heat-related risks remain poorly understood. We investigated the independent and combined association of foehn winds and temperature with cause-specific emergency hospitalizations in Switzerland. We found that foehn winds daily intensity showed small and no consistent association with hospitalizations in temperature-adjusted and non-adjusted models. However, foehn winds amplified heat-related hospitalization risk with a 14% increase in risk at the 99th temperature percentile on foehn days, compared to -2% on non-foehn days (Figure below). The association was larger for females, older adults, and for hospitalizations due to respiratory and mental health causes. While foehn winds did not directly impact hospitalizations, they may contribute to an amplification of heat-related health risks, especially for females and older adults.
   </p>
 
-  <div style="text-align: center; margin-top: 10px;">
+  <div style="text-align: center; margin-top: 4px;">
     <img 
       src="https://raw.githubusercontent.com/tinojona/Paper_2025_foehn_winds_and_hospitalizations/main/output/figures/Figure3_only_allcause_bluered.png" 
       style="width: 70%; border: 1px solid #ccc;" 
       alt="Cumulative relative risk for all-cause hospitalization"
     />
-    <div style="font-size: 90%; color: #555; margin-top: 5px;">
+    <div style="font-size: 70%; color: #555; margin-top: 4px;">
       <em>
         (a) Cumulative relative risk for all-cause hospitalization from temperature exposure with 95% confidence intervals and (b) cumulative relative risk for all-cause hospitalization from temperature exposure with 95% confidence intervals on foehn and non-foehn days.
       </em>
