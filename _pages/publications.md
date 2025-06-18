@@ -86,13 +86,13 @@ author_profile: true
 
   <div style="text-align: center; margin-top: 4px;">
     <img 
-      src="https://raw.githubusercontent.com/tinojona/tinojona.github.io/blob/main/images/BA.png" 
+      src="https://raw.githubusercontent.com/tinojona/tinojona.github.io/blob/main/images/BA_new.png" 
       style="width: 70%; border: 1px solid #ccc;" 
       alt="precipitation indices"
     />
     <div style="font-size: 80%; color: #555; margin-top: 4px; margin-bottom: 6px;">
       <em>
-        (a) Cumulative relative risk for all-cause hospitalization from temperature exposure with 95% confidence intervals and (b) cumulative relative risk for all-cause hospitalization from temperature exposure with 95% confidence intervals on foehn and non-foehn days with the 1st and 99th percentile shown as dashed lines.
+        Number of days with more than 10 mm (R10) and 20 mm (R20) of precipitation per year and the 95th percentile (R95p) and 99th percentile (R99p) of the yearly daily precipiation distribution.
       </em>
     </div>
   </div>
