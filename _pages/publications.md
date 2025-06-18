@@ -77,7 +77,11 @@ author_profile: true
 
 <p style="margin-bottom: 0px;">
   2023 Bachelor thesis. 
-  <a href="https://github.com/tinojona/tinojona.github.io/blob/main/files/BA_Tino_Schneidewind.pdf"><em>Changes in Precipitation Distribution and Intensity and their Consequences on Water Balance in the Fichtelgebirge, Northern Bavaria</em></a>
+  <a href="https://github.com/tinojona/tinojona.github.io/blob/main/files/BA_Tino_Schneidewind.pdf">
+    <em>Changes in Precipitation Distribution and Intensity and their Consequences on Water Balance in the 
+      <span style="margin-left: 47px;">Fichtelgebirge, Northern Bavaria</span>
+    </em>
+  </a>
   <span style="margin-left: 47px;">University of Bayreuth, Germany.</span>
 </p>
 <details style="max-width: 900px; margin: 0 auto 4px auto;">
