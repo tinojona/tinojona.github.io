@@ -86,7 +86,7 @@ author_profile: true
 
   <div style="text-align: center; margin-top: 4px;">
     <img 
-      src="https://raw.githubusercontent.com/tinojona/tinojona.github.io/blob/main/images/BA_new.png" 
+      src="https://raw.githubusercontent.com/tinojona/tinojona.github.io/main/images/BA_new.png" 
       style="width: 70%; border: 1px solid #ccc;" 
       alt="precipitation indices"
     />
