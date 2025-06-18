@@ -23,7 +23,7 @@ author_profile: true
 ### Reports
 
 |2025| Schneidewind T, Kessler L, Rigny T, Stajic D. [*Air pollution and emergency room visits*](https://github.com/tinojona/PM10_Emergency_room_visits/blob/main/FINAL_REPORT.pdf), University of Bern, Switzerland. [[Code]](https://github.com/tinojona/PM10_Emergency_room_visits) |
-<details style="max-width: 900px; margin: 0 auto; margin-top: -4px; margin-bottom: 4px;">
+<details style="max-width: 900px; margin: 0 auto; margin-top: -10px; margin-bottom: 4px;">
   <summary style="cursor: pointer; font-weight: normal; margin-bottom: 2px;">Click to read summary and see figure</summary>
   
   <p style="margin-top: 4px;">
