@@ -24,9 +24,10 @@ author_profile: true
 
 
  <p style="margin-bottom: 0px;">
-  |2025| Schneidewind T, Kessler L, Rigny T, Stajic D. 
+  2025 Schneidewind T, Kessler L, Rigny T, Stajic D. 
   <a href="https://github.com/tinojona/PM10_Emergency_room_visits/blob/main/FINAL_REPORT.pdf"><em>Air pollution and emergency room visits</em></a>, 
-  University of Bern, Switzerland. 
+  University of Bern, 
+  <span style="margin-left: 4px;">Switzerland</span>.
   <a href="https://github.com/tinojona/PM10_Emergency_room_visits">[Code]</a>
    |
 </p>
