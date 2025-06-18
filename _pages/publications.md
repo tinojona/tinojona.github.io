@@ -126,7 +126,7 @@ author_profile: true
     />
     <div style="font-size: 65%; color: #555; margin-top: 4px; margin-bottom: 6px;">
       <em>
-        Cumulative xposure response for PM10 for all cause emergency room visits from Model 1 (no temperature confounding) and Model 2 (with temperature confounding).
+        Cumulative relative risk for PM10 for all cause emergency room visits from Model 1 (without temperature confounding) and Model 2 (with temperature confounding).
       </em>
     </div>
   </div>
