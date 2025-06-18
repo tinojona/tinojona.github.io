@@ -10,8 +10,8 @@ author_profile: true
 <br> 
 
  <p style="margin-bottom: 0px;">
-  2025 Schneidewind T, Lee S, Vicedo-Cabrera A M, Saucy A. <em>The risk of hospitalization associated with foehn winds and heat in the mountainous region of Switzerland</em>, **Environmental Epidemiology**, under Review!
-  <span style="margin-left: 20px;">Switzerland</span>.
+  2025 Schneidewind T, Lee S, Vicedo-Cabrera A M, Saucy A. <em>The risk of hospitalization associated with foehn winds and
+  <span style="margin-left: 30px;">heat in the mountainous region of Switzerland</em>, <b>Environmental Epidemiology<b>, under Review!</span>.
   <a href="https://github.com/tinojona/Paper_2025_foehn_winds_and_hospitalizations">[Code]</a>
 </p>
 
@@ -30,7 +30,7 @@ author_profile: true
     />
     <div style="font-size: 80%; color: #555; margin-top: 4px; margin-bottom: 6px;">
       <em>
-        (a) Cumulative relative risk for all-cause hospitalization from temperature exposure with 95% confidence intervals and (b) cumulative relative risk for all-cause hospitalization from temperature exposure with 95% confidence intervals on foehn and non-foehn days.
+        (a) Cumulative relative risk for all-cause hospitalization from temperature exposure with 95% confidence intervals and (b) cumulative relative risk for all-cause hospitalization from temperature exposure with 95% confidence intervals on foehn and non-foehn days with the 1st and 99th percentile shown as dashed lines.
       </em>
     </div>
   </div>
