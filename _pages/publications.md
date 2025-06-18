@@ -22,7 +22,7 @@ author_profile: true
 
 ### Reports
 
-<div style="margin-bottom: 4px;">  <!-- wrapper to control space before the details -->
+<div style="margin-bottom: 3px;">  <!-- wrapper to control space before the details -->
   |2025| Schneidewind T, Kessler L, Rigny T, Stajic D. 
   <a href="https://github.com/tinojona/PM10_Emergency_room_visits/blob/main/FINAL_REPORT.pdf"><em>Air pollution and emergency room visits</em></a>, 
   University of Bern, Switzerland. 
@@ -42,7 +42,7 @@ author_profile: true
       style="width: 70%; border: 1px solid #ccc;" 
       alt="Cumulative relative risk for all-cause hospitalization"
     />
-    <div style="font-size: 80%; color: #555; margin-top: 4px;">
+    <div style="font-size: 80%; color: #555; margin-top: 4px; margin-bottom: 4px;">
       <em>
         (a) Cumulative relative risk for all-cause hospitalization from temperature exposure with 95% confidence intervals and (b) cumulative relative risk for all-cause hospitalization from temperature exposure with 95% confidence intervals on foehn and non-foehn days.
       </em>
