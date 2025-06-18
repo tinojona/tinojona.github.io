@@ -87,7 +87,7 @@ author_profile: true
   <div style="text-align: center; margin-top: 4px;">
     <img 
       src="https://raw.githubusercontent.com/tinojona/tinojona.github.io/main/images/BA_new.png" 
-      style="width: 70%; border: 1px solid #ccc;" 
+      style="width: 60%; border: 1px solid #ccc;" 
       alt="precipitation indices"
     />
     <div style="font-size: 80%; color: #555; margin-top: 4px; margin-bottom: 6px;">
@@ -103,12 +103,44 @@ author_profile: true
 
 ### Reports
 
+ <p style="margin-bottom: 0px;">
+  2025 Schneidewind T, Kessler L, Rigny T, Stajic D. 
+  <a href="https://github.com/tinojona/PM10_Emergency_room_visits/blob/main/FINAL_REPORT.pdf"><em>Air pollution and emergency room visits</em></a>, 
+  University of Bern, 
+  <span style="margin-left: 47px;">Switzerland</span>.
+  <a href="https://github.com/tinojona/PM10_Emergency_room_visits">[Code]</a>
+</p>
+
+<details style="max-width: 900px; margin: 0 auto 4px auto;">
+  <summary style="cursor: pointer; font-weight: normal; margin-bottom: 2px;">summary and key figure</summary>
+  
+  <p style="margin-top: 2px;">
+    Over the past decade, research into the health effects of air pollution has grown rapidly, with increasing evidence linking air pollutants to a range of acute and chronic health outcomes. Short-term exposure to PM10 (particulate matter with aerodynamic diameters ≤ 10 μm) has been consistently associated with increases in emergency department visits and hospitalisations, particularly for respiratory and cardiovascular diseases. Applying a time series analysis using distributed lagged non-linear models, we found that PM10 exposure increases the risk for an emergency room visit in Basel, Switzerland (Figure below). This risk decreases when taking temperature as a confounder into account. The presence of heat further exacerbated this risk, with specific vulnerabilities in males and older individuals, as well as cardiovascular cause emergency room visits.
+  </p>
+
+  <div style="text-align: center; margin-top: 4px;">
+    <img 
+      src="https://raw.githubusercontent.com/tinojona/PM10_Emergency_room_visits/main/plots/model1_model2_all.png" 
+      style="width: 60%; border: 1px solid #ccc;" 
+      alt="precipitation indices"
+    />
+    <div style="font-size: 65%; color: #555; margin-top: 4px; margin-bottom: 6px;">
+      <em>
+        Cumulative xposure response for PM10 for all cause emergency room visits from Model 1 (no temperature confounding) and Model 2 (with temperature confounding).
+      </em>
+    </div>
+  </div>
+</details>
+
+
+
+
 
  <p style="margin-bottom: 0px;">
   2025 Schneidewind T, Kessler L, Rigny T, Stajic D. 
   <a href="https://github.com/tinojona/PM10_Emergency_room_visits/blob/main/FINAL_REPORT.pdf"><em>Air pollution and emergency room visits</em></a>, 
   University of Bern, 
-  <span style="margin-left: 20px;">Switzerland</span>.
+  <span style="margin-left: 47px;">Switzerland</span>.
   <a href="https://github.com/tinojona/PM10_Emergency_room_visits">[Code]</a>
 </p>
 
