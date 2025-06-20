@@ -121,7 +121,7 @@ author_profile: true
   <div style="text-align: center; margin-top: 4px;">
     <img 
       src="https://raw.githubusercontent.com/tinojona/PM10_Emergency_room_visits/main/plots/model1_model2_all.png" 
-      style="width: 60%; border: 1px solid #ccc;" 
+      style="width: 70%; border: 1px solid #ccc;" 
       alt="precipitation indices"
     />
     <div style="font-size: 65%; color: #555; margin-top: 4px; margin-bottom: 6px;">
@@ -132,9 +132,6 @@ author_profile: true
   </div>
 </details>
 
-
-
-|2024| Schneidewind T, Bächtold L. [*Tropical Cyclone Freddy: a Performance Assessment of AI Pangu-Weather Forecasts on ERA5-Data*](https://github.com/tinojona/tinojona.github.io/blob/main/files/FINAL_REPORT.pdf), University of Bern, Switzerland. [[Code here]](https://github.com/tinojona/Tropical_Cyclone_Freddy)| 
 
 
 <p style="margin-bottom: 0px;">
@@ -159,9 +156,9 @@ author_profile: true
       style="width: 60%; border: 1px solid #ccc;" 
       alt="precipitation indices"
     />
-    <div style="font-size: 65%; color: #555; margin-top: 4px; margin-bottom: 6px;">
+    <div style="font-size: 85%; color: #555; margin-top: 4px; margin-bottom: 6px;">
       <em>
-        Comparison of ERA5 (left) and Pangu-Weather forecasts on different tropical cyclone relevant variables and their differences with different leadtimes of Pangu (bottom).
+        Comparison of ERA5 (left) and Pangu-Weather forecasts (right) on different tropical cyclone relevant variables and their differences with different leadtimes of Pangu (bottom).
       </em>
     </div>
   </div>
@@ -171,4 +168,35 @@ author_profile: true
 
 
 |2024| Schneidewind T. [*Are Switzerlands Dogs Threatened by Future Unabated Global Warming?*](https://github.com/tinojona/tinojona.github.io/blob/main/files/CRA_Report_Schneidewind.pdf), University of Bern, Switzerland. |
+
+
+<p style="margin-bottom: 0px;">
+  2024 Schneidewind T. 
+  <a href="https://github.com/tinojona/tinojona.github.io/blob/main/files/CRA_Report_Schneidewind.pdf">
+    <em>Are Switzerlands Dogs Threatened by Future Unabated Global Warming?</em> , University of Bern, 
+    <span style="margin-left: 47px;">Switzerland.</span>
+  </a>
+</p>
+
+<details style="max-width: 900px; margin: 0 auto 4px auto;">
+  <summary style="cursor: pointer; font-weight: normal; margin-bottom: 2px;">summary and key figure</summary>
+  
+  <p style="margin-top: 2px;">
+   Tropical Cyclone (TC) Freddy was an exceptional storm that broke multiple records. With a lifespan of 34 days, it became the longest-lasting tropical cyclone ever recorded. It also covered the second-longest distance and underwent a record-breaking seven rapid intensification events. This report evaluates the performance of AI-based Pangu-Weather forecasts in predicting such an extreme event. Specifically, it assesses Pangu’s forecasting accuracy at various lead times prior to Freddy’s landfall in Madagascar on February 21, 2023. This moment was chosen because accurate forecasts are most critical during landfall, when the potential for damage and loss of life is greatest. The evaluation shows that Pangu-Weather was able to predict the location of the pressure minimum reasonably well, consistent with findings by Bi et al. (2022). However, it tended to underestimate the intensity of the storm. Forecast accuracy declined with increasing lead time, and the underestimation of intensity is likely due to the model’s limited spatial resolution. Such underestimations pose risks for coastal communities, where emergency responses—such as evacuations—depend on the predicted storm strength. Despite these limitations, Pangu-Weather demonstrates promising capabilities. Improvements in spatial resolution and initial condition accuracy could significantly enhance its performance in forecasting extreme events like tropical cyclones. Additionally, its low computational requirements compared to traditional numerical weather prediction models make it attractive for rapid, frequent, and cost-effective forecasting.
+  </p>
+
+  <div style="text-align: center; margin-top: 4px;">
+    <img 
+      src="https://raw.githubusercontent.com/tinojona/tinojona.github.io/main/images/tuuli_new.png" 
+      style="width: 60%; border: 1px solid #ccc;" 
+      alt="precipitation indices"
+    />
+    <div style="font-size: 85%; color: #555; margin-top: 4px; margin-bottom: 6px;">
+      <em>
+        Comparison of ERA5 (left) and Pangu-Weather forecasts (right) on different tropical cyclone relevant variables and their differences with different leadtimes of Pangu (bottom).
+      </em>
+    </div>
+  </div>
+</details>
+
 
