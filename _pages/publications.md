@@ -138,8 +138,7 @@ author_profile: true
   2024 Schneidewind T, Bächtold L. 
   <a href="https://github.com/tinojona/tinojona.github.io/blob/main/files/FINAL_REPORT.pdf">
     <em>Tropical Cyclone Freddy: a Performance Assessment of AI Pangu-Weather Forecasts</em>
-    <span style="margin-left: 47px;"><em> on ERA5-Data</em></span>
-  </a>, University of Bern, Switzerland.
+    <span style="margin-left: 47px;"><em> on ERA5-Data</em></span></a>, University of Bern, Switzerland.
   <a href="https://github.com/tinojona/Tropical_Cyclone_Freddy">[Code]</a>
 </p>
 
