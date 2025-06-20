@@ -141,8 +141,8 @@ author_profile: true
   2024 Schneidewind T, Bächtold L. 
   <a href="https://github.com/tinojona/tinojona.github.io/blob/main/files/FINAL_REPORT.pdf">
     <em>Tropical Cyclone Freddy: a Performance Assessment of AI Pangu-Weather Forecasts</em>
-    <span style="margin-left: 47px;"><em> on ERA5-Data</em>, University of Bern, Switzerland</span>
-  </a>
+    <span style="margin-left: 47px;"><em> on ERA5-Data</em></span>
+  </a>, University of Bern, Switzerland.
   <a href="https://github.com/tinojona/Tropical_Cyclone_Freddy">[Code]</a>
 </p>
 
@@ -150,18 +150,18 @@ author_profile: true
   <summary style="cursor: pointer; font-weight: normal; margin-bottom: 2px;">summary and key figure</summary>
   
   <p style="margin-top: 2px;">
-    In the past decade, research on the health impacts of air pollution has expanded significantly, with mounting evidence linking air pollutants to various acute and chronic health outcomes. Short-term exposure to PM10 (particulate matter with aerodynamic diameters ≤10 μm) has been consistently associated with increased emergency department visits and hospitalizations, particularly for respiratory and cardiovascular conditions. Using time series analysis with distributed lag non-linear models, we observed that PM10 exposure was linked to a higher risk of emergency room visits in Basel, Switzerland (see figure below). This risk attenuated when adjusting for temperature as a confounding factor. However, periods of elevated heat amplified the risk, especially among males, older adults, and patients presenting with cardiovascular-related emergencies.
+   Tropical Cyclone (TC) Freddy was an exceptional storm that broke multiple records. With a lifespan of 34 days, it became the longest-lasting tropical cyclone ever recorded. It also covered the second-longest distance and underwent a record-breaking seven rapid intensification events. This report evaluates the performance of AI-based Pangu-Weather forecasts in predicting such an extreme event. Specifically, it assesses Pangu’s forecasting accuracy at various lead times prior to Freddy’s landfall in Madagascar on February 21, 2023. This moment was chosen because accurate forecasts are most critical during landfall, when the potential for damage and loss of life is greatest. The evaluation shows that Pangu-Weather was able to predict the location of the pressure minimum reasonably well, consistent with findings by Bi et al. (2022). However, it tended to underestimate the intensity of the storm. Forecast accuracy declined with increasing lead time, and the underestimation of intensity is likely due to the model’s limited spatial resolution. Such underestimations pose risks for coastal communities, where emergency responses—such as evacuations—depend on the predicted storm strength. Despite these limitations, Pangu-Weather demonstrates promising capabilities. Improvements in spatial resolution and initial condition accuracy could significantly enhance its performance in forecasting extreme events like tropical cyclones. Additionally, its low computational requirements compared to traditional numerical weather prediction models make it attractive for rapid, frequent, and cost-effective forecasting.
   </p>
 
   <div style="text-align: center; margin-top: 4px;">
     <img 
-      src="https://raw.githubusercontent.com/tinojona/PM10_Emergency_room_visits/main/plots/model1_model2_all.png" 
+      src="https://raw.githubusercontent.com/tinojona/tinojona.github.io/blob/main/images/freddy.png" 
       style="width: 60%; border: 1px solid #ccc;" 
       alt="precipitation indices"
     />
     <div style="font-size: 65%; color: #555; margin-top: 4px; margin-bottom: 6px;">
       <em>
-        Cumulative relative risk for PM10 for all cause emergency room visits from Model 1 (without temperature confounding) and Model 2 (with temperature confounding).
+        Comparison of ERA5 (left) and Pangu-Weather forecasts on different tropical cyclone relevant variables and their differences with different leadtimes of Pangu (bottom).
       </em>
     </div>
   </div>
