@@ -58,7 +58,7 @@ author_profile: true
 
   <div style="text-align: center; margin-top: 4px;">
     <img 
-      src="https://raw.githubusercontent.com/tinojona/Paper_2025_foehn_winds_and_hospitalizations/main/output/figures/Figure3_only_allcause_bluered.png" 
+      src="https://raw.githubusercontent.com/tinojona/Paper_2025_foehn_winds_and_hospitalizations/main/output/figures/Figure4.png" 
       style="width: 70%; border: 1px solid #ccc;" 
       alt="Cumulative relative risk for all-cause hospitalization"
     />
@@ -121,10 +121,10 @@ author_profile: true
   <div style="text-align: center; margin-top: 4px;">
     <img 
       src="https://raw.githubusercontent.com/tinojona/PM10_Emergency_room_visits/main/plots/model1_model2_all.png" 
-      style="width: 70%; border: 1px solid #ccc;" 
+      style="width: 65%; border: 1px solid #ccc;" 
       alt="precipitation indices"
     />
-    <div style="font-size: 65%; color: #555; margin-top: 4px; margin-bottom: 6px;">
+    <div style="font-size: 80%; color: #555; margin-top: 4px; margin-bottom: 6px;">
       <em>
         Cumulative relative risk for PM10 for all cause emergency room visits from Model 1 (without temperature confounding) and Model 2 (with temperature confounding).
       </em>
@@ -153,10 +153,10 @@ author_profile: true
   <div style="text-align: center; margin-top: 4px;">
     <img 
       src="https://raw.githubusercontent.com/tinojona/tinojona.github.io/main/images/freddy.png" 
-      style="width: 60%; border: 1px solid #ccc;" 
+      style="width: 85%; border: 1px solid #ccc;" 
       alt="precipitation indices"
     />
-    <div style="font-size: 100%; color: #555; margin-top: 4px; margin-bottom: 6px;">
+    <div style="font-size: 80%; color: #555; margin-top: 4px; margin-bottom: 6px;">
       <em>
         Comparison of ERA5 (left) and Pangu-Weather forecasts (right) on different tropical cyclone relevant variables and their differences with different leadtimes of Pangu (bottom).
       </em>
@@ -184,10 +184,10 @@ author_profile: true
   <div style="text-align: center; margin-top: 4px;">
     <img 
       src="https://raw.githubusercontent.com/tinojona/tinojona.github.io/main/images/tuuli_new.png" 
-      style="width: 60%; border: 1px solid #ccc;" 
+      style="width: 85%; border: 1px solid #ccc;" 
       alt="precipitation indices"
     />
-    <div style="font-size: 100%; color: #555; margin-top: 4px; margin-bottom: 6px;">
+    <div style="font-size: 80%; color: #555; margin-top: 4px; margin-bottom: 6px;">
       <em>
         Comparison of ERA5 (left) and Pangu-Weather forecasts (right) on different tropical cyclone relevant variables and their differences with different leadtimes of Pangu (bottom).
       </em>
