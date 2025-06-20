@@ -155,7 +155,7 @@ author_profile: true
 
   <div style="text-align: center; margin-top: 4px;">
     <img 
-      src="https://raw.githubusercontent.com/tinojona/tinojona.github.io/blob/main/images/freddy.png" 
+      src="https://raw.githubusercontent.com/tinojona/tinojona.github.io/main/images/freddy.png" 
       style="width: 60%; border: 1px solid #ccc;" 
       alt="precipitation indices"
     />
