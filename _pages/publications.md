@@ -156,7 +156,7 @@ author_profile: true
       style="width: 60%; border: 1px solid #ccc;" 
       alt="precipitation indices"
     />
-    <div style="font-size: 85%; color: #555; margin-top: 4px; margin-bottom: 6px;">
+    <div style="font-size: 100%; color: #555; margin-top: 4px; margin-bottom: 6px;">
       <em>
         Comparison of ERA5 (left) and Pangu-Weather forecasts (right) on different tropical cyclone relevant variables and their differences with different leadtimes of Pangu (bottom).
       </em>
@@ -182,7 +182,7 @@ author_profile: true
   <summary style="cursor: pointer; font-weight: normal; margin-bottom: 2px;">summary and key figure</summary>
   
   <p style="margin-top: 2px;">
-   Tropical Cyclone (TC) Freddy was an exceptional storm that broke multiple records. With a lifespan of 34 days, it became the longest-lasting tropical cyclone ever recorded. It also covered the second-longest distance and underwent a record-breaking seven rapid intensification events. This report evaluates the performance of AI-based Pangu-Weather forecasts in predicting such an extreme event. Specifically, it assesses Pangu’s forecasting accuracy at various lead times prior to Freddy’s landfall in Madagascar on February 21, 2023. This moment was chosen because accurate forecasts are most critical during landfall, when the potential for damage and loss of life is greatest. The evaluation shows that Pangu-Weather was able to predict the location of the pressure minimum reasonably well, consistent with findings by Bi et al. (2022). However, it tended to underestimate the intensity of the storm. Forecast accuracy declined with increasing lead time, and the underestimation of intensity is likely due to the model’s limited spatial resolution. Such underestimations pose risks for coastal communities, where emergency responses—such as evacuations—depend on the predicted storm strength. Despite these limitations, Pangu-Weather demonstrates promising capabilities. Improvements in spatial resolution and initial condition accuracy could significantly enhance its performance in forecasting extreme events like tropical cyclones. Additionally, its low computational requirements compared to traditional numerical weather prediction models make it attractive for rapid, frequent, and cost-effective forecasting.
+   Dogs play an important role in Swiss society—as working animals in military, police, search and rescue, and assistance roles, and as pets that enhance human well-being. However, like humans, dogs are increasingly vulnerable to heat stress due to anthropogenic climate change, particularly in urban environments where warming is amplified, especially at night. As temperatures rise, dogs rely more on evaporative cooling through panting. However, this mechanism becomes less effective with increasing humidity, losing all efficiency above 80% relative humidity. This makes hot and humid conditions particularly dangerous for canine thermoregulation. This report examines projected increases in heat stress for dogs under the high-emission RCP8.5 climate scenario. An adapted Humidex index incorporating humidity was used to assess changes in heat stress days, and the number of tropical nights (nTN) was analyzed to represent reduced nocturnal cooling. Using four CORDEX model chains, two time periods were compared: 1971–2000 (historical) and 2071–2100 (future). Results indicate a significant rise in heat stress days and tropical nights, particularly in low-lying areas such as the Swiss Plateau and Ticino (with increases of up to 26 and 46 nTN, respectively). In contrast, higher elevations like the Alps and Jura are less affected. However, model predictions vary across regions, particularly near Lake Geneva and Lake Constance, highlighting localized uncertainties in minimum temperature projections. Overall, the findings suggest a marked increase in heat stress for dogs in densely populated areas under continued high emissions. Mitigation strategies—such as building cooling systems and wider use of canine cooling aids—will be essential to protect dog health in a warming climate.
   </p>
 
   <div style="text-align: center; margin-top: 4px;">
@@ -191,7 +191,7 @@ author_profile: true
       style="width: 60%; border: 1px solid #ccc;" 
       alt="precipitation indices"
     />
-    <div style="font-size: 85%; color: #555; margin-top: 4px; margin-bottom: 6px;">
+    <div style="font-size: 100%; color: #555; margin-top: 4px; margin-bottom: 6px;">
       <em>
         Comparison of ERA5 (left) and Pangu-Weather forecasts (right) on different tropical cyclone relevant variables and their differences with different leadtimes of Pangu (bottom).
       </em>
