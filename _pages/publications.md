@@ -135,5 +135,40 @@ author_profile: true
 
 
 |2024| Schneidewind T, Bächtold L. [*Tropical Cyclone Freddy: a Performance Assessment of AI Pangu-Weather Forecasts on ERA5-Data*](https://github.com/tinojona/tinojona.github.io/blob/main/files/FINAL_REPORT.pdf), University of Bern, Switzerland. [[Code here]](https://github.com/tinojona/Tropical_Cyclone_Freddy)| 
+
+
+<p style="margin-bottom: 0px;">
+  2024 Schneidewind T, Bächtold L. 
+  <a href="https://github.com/tinojona/tinojona.github.io/blob/main/files/FINAL_REPORT.pdf">
+    <em>Tropical Cyclone Freddy: a Performance Assessment of AI Pangu-Weather Forecasts</em>
+    <span style="margin-left: 47px;"><em> on ERA5-Data</em>, University of Bern, Switzerland</span>
+  </a>
+  <a href="https://github.com/tinojona/Tropical_Cyclone_Freddy">[Code]</a>
+</p>
+
+<details style="max-width: 900px; margin: 0 auto 4px auto;">
+  <summary style="cursor: pointer; font-weight: normal; margin-bottom: 2px;">summary and key figure</summary>
+  
+  <p style="margin-top: 2px;">
+    In the past decade, research on the health impacts of air pollution has expanded significantly, with mounting evidence linking air pollutants to various acute and chronic health outcomes. Short-term exposure to PM10 (particulate matter with aerodynamic diameters ≤10 μm) has been consistently associated with increased emergency department visits and hospitalizations, particularly for respiratory and cardiovascular conditions. Using time series analysis with distributed lag non-linear models, we observed that PM10 exposure was linked to a higher risk of emergency room visits in Basel, Switzerland (see figure below). This risk attenuated when adjusting for temperature as a confounding factor. However, periods of elevated heat amplified the risk, especially among males, older adults, and patients presenting with cardiovascular-related emergencies.
+  </p>
+
+  <div style="text-align: center; margin-top: 4px;">
+    <img 
+      src="https://raw.githubusercontent.com/tinojona/PM10_Emergency_room_visits/main/plots/model1_model2_all.png" 
+      style="width: 60%; border: 1px solid #ccc;" 
+      alt="precipitation indices"
+    />
+    <div style="font-size: 65%; color: #555; margin-top: 4px; margin-bottom: 6px;">
+      <em>
+        Cumulative relative risk for PM10 for all cause emergency room visits from Model 1 (without temperature confounding) and Model 2 (with temperature confounding).
+      </em>
+    </div>
+  </div>
+</details>
+
+
+
+
 |2024| Schneidewind T. [*Are Switzerlands Dogs Threatened by Future Unabated Global Warming?*](https://github.com/tinojona/tinojona.github.io/blob/main/files/CRA_Report_Schneidewind.pdf), University of Bern, Switzerland. |
 
