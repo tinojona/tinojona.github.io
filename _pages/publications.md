@@ -166,10 +166,6 @@ author_profile: true
 
 
 
-
-|2024| Schneidewind T. [*Are Switzerlands Dogs Threatened by Future Unabated Global Warming?*](https://github.com/tinojona/tinojona.github.io/blob/main/files/CRA_Report_Schneidewind.pdf), University of Bern, Switzerland. |
-
-
 <p style="margin-bottom: 0px;">
   2024 Schneidewind T. 
   <a href="https://github.com/tinojona/tinojona.github.io/blob/main/files/CRA_Report_Schneidewind.pdf">
