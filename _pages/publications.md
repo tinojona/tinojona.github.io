@@ -17,8 +17,8 @@ author_profile: true
   <a href="https://github.com/tinojona/Paper_2025_foehn_winds_and_hospitalizations">[Code]</a>
 </p>
 
-<details class="toggle-box" style="max-width: 900px; margin: 0 auto 4px auto;">
-  <summary class="toggle-summary" style="cursor: pointer; font-weight: normal; margin-bottom: 2px;">Click here to see summary and key figure.</summary>
+<details style="max-width: 900px; margin: 0 auto 4px auto;">
+  <summary style="cursor: pointer; font-weight: normal; margin-bottom: 2px;">Click here to see summary and key figure.</summary>
   
   <p style="margin-top: 2px;">
     Foehn winds are intense warm winds, common in mountain regions, but their health impacts and potential to exacerbate existing heat-related risks remain poorly understood. We investigated the independent and combined association of foehn winds and temperature with cause-specific emergency hospitalizations in Switzerland. We found that foehn winds daily intensity showed small and no consistent association with hospitalizations in temperature-adjusted and non-adjusted models. However, foehn winds amplified heat-related hospitalization risk with a 14% increase in risk at the 99th temperature percentile on foehn days, compared to -2% on non-foehn days (Figure below). The association was larger for females, older adults, and for hospitalizations due to respiratory and mental health causes. While foehn winds did not directly impact hospitalizations, they may contribute to an amplification of heat-related health risks, especially for females and older adults.
