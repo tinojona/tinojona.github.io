@@ -100,20 +100,20 @@ $masthead-link-color        : #1b263b; // changed from #cccccc
 $masthead-link-color-hover  : #9b2226; // changed from #ee9b00 (orange modified)
 
 summary {
-  color: $link-color;
+  color: #003049;
 
   &:hover {
-    color: $link-color-hover;
+    color: $link-color;
   }
 }
 
 button {
-  color: $link-color;
+  color: #003049;
   background: none;
   border: none;
 
   &:hover {
-    color: $link-color-hover;
+    color: $link-color;
     cursor: pointer;
   }
 }
