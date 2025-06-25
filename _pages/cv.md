@@ -13,7 +13,7 @@ redirect_from:
 ### Education
 
 * MSc Climate Science, University of Bern, Switzerland, 2023-today.
-* BSc Environmental Science, University of Bayreuth, Germany, 2019-23.
+* BSc Environmental Science, University of Bayreuth, Germany, 2019-2023.
 * Certificate in Sustainability, University of Bayreuth, Germany, 2022-2023.
 
 
