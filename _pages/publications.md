@@ -7,15 +7,13 @@ author_profile: true
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
-[[The risk of hospitalization associated with foehn winds and temperature in the mountainous region of Switzerland]]([https://github.com/tinojona/Paper_2025_foehn_winds_and_hospitalizations](https://journals.lww.com/environepidem/fulltext/2025/10000/the_risk_of_hospitalization_associated_with_foehn.5.aspx))
-
 <br> 
 
 <p style="margin-bottom: 0px;">
   2025 Schneidewind T, Lee S, Vicedo-Cabrera A M, Saucy A. 
   <em><a href="https://journals.lww.com/environepidem/fulltext/2025/10000/the_risk_of_hospitalization_associated_with_foehn.5.aspx">
   The risk of hospitalization associated with foehn winds and heat in the mountainous region of Switzerland</a></em>, 
-  <b>Environmental Epidemiology</b>
+  <b>Environmental Epidemiology.</b>
   <a href="https://github.com/tinojona/Paper_2025_foehn_winds_and_hospitalizations">[Code]</a>
 </p>
 
