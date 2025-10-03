@@ -7,17 +7,18 @@ author_profile: true
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
-
+[[The risk of hospitalization associated with foehn winds and temperature in the mountainous region of Switzerland]]([https://github.com/tinojona/Paper_2025_foehn_winds_and_hospitalizations](https://journals.lww.com/environepidem/fulltext/2025/10000/the_risk_of_hospitalization_associated_with_foehn.5.aspx))
 
 <br> 
 
- <p style="margin-bottom: 0px;">
-  2025 Schneidewind T, Lee S, Vicedo-Cabrera A M, Saucy A. <em>The risk of hospitalization associated with foehn winds and</em>
-  <span style="margin-left: 46px;"><em>heat in the mountainous region of Switzerland</em>, <b>Environmental Epidemiology</b>, under Review!</span>
+<p style="margin-bottom: 0px;">
+  2025 Schneidewind T, Lee S, Vicedo-Cabrera A M, Saucy A. 
+  <em><a href="https://journals.lww.com/environepidem/fulltext/2025/10000/the_risk_of_hospitalization_associated_with_foehn.5.aspx">
+  The risk of hospitalization associated with foehn winds and heat in the mountainous region of Switzerland</a></em>, 
+  <b>Environmental Epidemiology</b>
   <a href="https://github.com/tinojona/Paper_2025_foehn_winds_and_hospitalizations">[Code]</a>
 </p>
 
-<!---
 <details style="max-width: 900px; margin: 0 auto 4px auto;">
   <summary style="cursor: pointer; font-weight: normal; margin-bottom: 2px;">Click here to see summary and key figure.</summary>
   <p style="margin-top: 2px;">
@@ -36,7 +37,6 @@ author_profile: true
     </div>
   </div>
 </details>
--->
 
 <br>
 
@@ -50,7 +50,6 @@ author_profile: true
   <a href="https://github.com/tinojona/Paper_2025_foehn_winds_and_hospitalizations">[Code]</a>
 </p>
 
-<!---
 <details style="max-width: 900px; margin: 0 auto 4px auto;">
   <summary style="cursor: pointer; font-weight: normal; margin-bottom: 2px;">Click here to see summary and key figure.</summary>
   
@@ -71,7 +70,7 @@ author_profile: true
     </div>
   </div>
 </details>
--->
+
 
 <p style="margin-bottom: 0px;">
   2023 Bachelor thesis. 
