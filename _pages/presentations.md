@@ -7,7 +7,7 @@ author_profile: true
 
 <br>
 
-| 10/2025 | Schneidewind et al. _The risk of hospitalization associated with foehn winds and heat in the mountainous region of Switzerland_, poster at [ENBEL - connecting health and climate change](https://enbel2025.ee/en/enbel/), Tallinn, Estonia. |
+| 10/2025 | Schneidewind et al. [_Do foehn winds affect human health?_](https://github.com/tinojona/tinojona.github.io/blob/main/files/ENBEL_poster_TINO.pdf), poster at [ENBEL - connecting health and climate change](https://enbel2025.ee/en/enbel/), Tallinn, Estonia. |
 | --- | --- |
 | 06/2025 | Schneidewind et al. [_The risk of hospitalization associated with foehn winds and heat in the mountainous region of Switzerland_](https://github.com/tinojona/tinojona.github.io/blob/main/files/DACH_Schneidewind.pdf), talk at [DACH 2025 - Meteorology Conference and Climate in Focus](https://dach2025.oeschger.unibe.ch/), Bern, Switzerland. |
 | --- | --- |
