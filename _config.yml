@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "tinojona.github.io"
+title                    : "Tino Schneidewind"
 title_separator          : "-"
 name                     : &name "Tino Schneidewind"
 description              : &description "Climate Scientist"
