@@ -7,7 +7,7 @@ author_profile: true
 
 <br>
 
-| 05/2026 | Schneidewind et al. [_The temperature-related loss of lifetime attributable to climate change_](https://github.com/tinojona/tinojona.github.io/blob/main/files/EGU26.pdf), invited speaker at press conference at [EGU26](https://https://www.egu26.eu/), Vienna, Austria. |
+| 05/2026 | Schneidewind et al. [_The temperature-related loss of lifetime attributable to climate change_](https://github.com/tinojona/tinojona.github.io/blob/main/files/EGU26.pdf), invited speaker at press conference at [EGU26](https://https://www.egu26.eu/) [(Youtube)](https://www.youtube.com/watch?v=bWL2mUfxhnA), Vienna, Austria. |
 | --- | --- |
 | 05/2026 | Schneidewind et al. [_The temperature-related loss of lifetime attributable to climate change_](https://github.com/tinojona/tinojona.github.io/blob/main/files/EGU26.pdf), talk in the Population health in a changing climate session at [EGU26](https://https://www.egu26.eu/), Vienna, Austria. |
 | --- | --- |
