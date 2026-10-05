@@ -7,7 +7,7 @@ author_profile: true
 
 <br>
 
-| 07/2026 | Schneidewind et al. Lifetime loss attributable to temperature and climate change, talk at [Beat The Heat 2026](https://www.geography.unibe.ch/micro_uclimate/content/outreach/events/beat_the_heat_2026/index_ger.html), Bern, Switzerland. |
+| 08/2026 | Schneidewind et al. Lifetime loss attributable to temperature and climate change, poster at [Beat The Heat 2026](https://www.geography.unibe.ch/micro_uclimate/content/outreach/events/beat_the_heat_2026/index_ger.html), Bern, Switzerland. |
 | --- | --- |
 | 07/2026 | Schneidewind et al. The temperature-related loss of lifetime attributable to climate change, Flash Talk at [ISEE26](https://www.isee26.org/), Munich, Germany. |
 | --- | --- |
